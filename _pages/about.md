@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mohammad Amir Eshraghi, and I am a researcher in Artificial Intelligence and Machine Vision. I am passionate about filing the gaps between deep learning, embedded AI, and robotic systems to address different real-world challenges such as agriculture, healthcare, etc.
+I am Mohammad Amir Eshraghi, a researcher in Artificial Intelligence and Machine Vision. I am passionate about filling the gaps between deep learning, embedded AI, and robotic systems by contributing to egocentric AI and 3D recognition to address real-world challenges.
 
-Recently, I have been collaborating with researchers at [Oregon State University (OSU)](www.oregonstate.edu) to design transformer-based machine vision system implementing on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
+Recently, I have been collaborating with researchers at [Oregon State University (OSU)](www.oregonstate.edu) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
 
 Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran University of Science and Technology (IUST), where I specialized in Digital Electronic Systems and Intelligent Systems and developed innovative AI-based solutions for medical applications, including leukemia and COVID-19 diagnosis systems using computer vision and image processing methods. I have collaborated with esteemed research groups across multiple institutions, contributing to impactful projects in AI for healthcare, and publishing my work in peer-reviewed journals.
 
@@ -84,7 +84,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <li>Research Collaborator, Oregon State University (OSU), USA
     <br />
     <font size="3">
-      •	Developing intelligent sensing devices and lightweight transformer-based computer vision models for crop identification and real-time agricultural decision-making. Designing AI-powered portable systems (smartphone apps, Raspberry Pi) and collaborating on ground and aerial robotic platforms for precision agriculture.
+      •
     </font> 
     <br /> 
     </li>
@@ -93,8 +93,18 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <li>Research Assistant, Iran University of Science and Technology (IUST), Iran
     <br />
     <font size="3">
-      Machine Vision Lab, (Dr. Baradaran Shahriar Shokouhi)
-      •	Developed AI-based Covid-19 Detection Systems, resulting in one publication.
+      Bioelectronic Lab, (Dr. Ahmad Ayatollahi) |
+      Master Thesis in WBC Image Classification based on ViT and attention concepts
+    </font> 
+    <br /> 
+    </li>
+</ul>
+<ul>
+    <li>Research Assistant, Iran University of Science and Technology (IUST), Iran
+    <br />
+    <font size="3">
+      Machine Vision Lab, (Dr. Baradaran Shahriar Shokouhi) |
+      Developed AI-based Covid-19 Detection Systems, resulting in one publication.
     </font> 
     <br /> 
     </li>
@@ -103,8 +113,8 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <li>Research Collaborator, Shahid Beheshti University of Medical Sciences (SBUMS), Iran
     <br />
     <font size="3">
-      Hematology Research Group, (Dr. Mustafa Ghaderzadeh, Dr. Davood Bashash)
-      •	Developed Leukemia Diagnosis AI-based Mobile Application, resulting in one publication, oral presentation, and a proposal. 
+      Hematology Research Group, (Dr. Mustafa Ghaderzadeh) |
+      Developed Leukemia Diagnosis AI-based Mobile Application, resulting in one publication, oral presentation, and a proposal. 
     </font> 
     <br /> 
     </li>
@@ -113,8 +123,8 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <li>Research Collaborator, Shahid Beheshti University of Medical Sciences (SBUMS), Iran      
     <br />
     <font size="3">
-      Radiology Research Group, (Dr. Mustafa Ghaderzadeh)
-      •	Developed AI-based Covid-19 Diagnosis Systems, resulting in one publication.
+      Radiology Research Group, (Dr. Mustafa Ghaderzadeh) |
+      Developed AI-based Covid-19 Diagnosis Systems, resulting in one publication.
     </font> 
     <br /> 
     </li>
