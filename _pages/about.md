@@ -127,11 +127,8 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
   <li>
     <strong>2024</strong>
     <ul>
-      <li><strong>Program Committee</strong></li>
-      <ul>
-        <li><a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">Weed Identification embedded on Ground Robot for Automatic Sprayer</a></li>
-        <li><a href="https://www.sbir.gov/about">Proposal: </a></li>
-      </ul>
+      <li><a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">Weed Identification embedded on Ground Robot for Automatic Sprayer</a></li>
+      <li><a href="https://www.sbir.gov/about">Proposal: </a></li>
     </ul>
   </li>
   
