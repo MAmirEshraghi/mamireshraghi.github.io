@@ -142,7 +142,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 <li>
     <strong>2023</strong>
     <ul>
-      <li>AI-based Leukemia Diagnosis Mobile Application <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">GitHub</a><a href="https://doi.org/10.1016/j.imu.2023.101244">Paper</a></li>
+      <li>AI-based Leukemia Diagnosis Mobile Application <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">GitHub </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> Paper</a></li>
       <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">GitHub</a></li>
     </ul>
   </li>
@@ -151,7 +151,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <strong>2022</strong>
     <ul>
       <li>AI-based Covid-19 Diagnosis Systems: COV-MobNets framework <a href="https://github.com/MAmirEshraghi/COV-MobNets">GitHub</a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">Kaggle</a><a href="https://doi.org/10.1186/s12880-023-01039-w">Paper</a></li>
-      <li>AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework">GitHub</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset">PublishedData_Kaggle</a><a href="https://doi.org/10.1155/2022/4838009">Paper</a></li>
+      <li>AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework">GitHub </a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> PublishedData_Kaggle </a><a href="https://doi.org/10.1155/2022/4838009"> Paper</a></li>
     </ul>
   </li> 
   
