@@ -54,9 +54,9 @@ Experience
 Skills
 ======
 * Deep Learning: Python (TensorFlow, PyTorch, Keras)
+* Data Analysis: MATLAB, Python
 * Software Dev. (Android): Java, Kotlin
 * Embedded Systems: C
-* Data Analysis: MATLAB, Python
 
 Publications
 ======
