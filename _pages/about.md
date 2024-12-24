@@ -79,15 +79,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 </ul>
 
 ## Academic Experiences
-<ul>
-    <li>Research Collaborator, Oregon State University (OSU), USA
-    <br />
-    <font size="3">
-      •	Developing intelligent sensing devices and lightweight transformer-based computer vision models for crop identification and real-time agricultural decision-making. Designing AI-powered portable systems (smartphone apps, Raspberry Pi) and collaborating on ground and aerial robotic platforms for precision agriculture.
-    </font> 
-    <br /> 
-    </li>
-</ul>
+
 <ul>
     <li>Research Collaborator, Oregon State University (OSU), USA
     <br />
@@ -130,25 +122,18 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 
 ## Research and Projects
 <ul>
-  <li>
-    <strong>2025</strong>
-    <ul>
-      <li><strong>Program Committee</strong></li>
-      <ul>
-        <li><a href="https://iclr.cc/Conferences/2025"> International Conference on Learning Representations (ICLR)</a></li>
-      </ul>
-    </ul>
-  </li>
+  
+  
   <li>
     <strong>2024</strong>
     <ul>
       <li><strong>Program Committee</strong></li>
       <ul>
-        <li><a href="https://neurips.cc/Conferences/2024">Conference on Neural Information Processing Systems (NeurIPS)</a></li>
-        <li><a href="https://www.sbir.gov/about">DoE SBIR and STTR Programs</a></li>
-        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369">IEEE Robotics and Automation Letters (RA-L)</a></li>
+        <li><a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">Weed Identification embedded on Ground Robot for Automatic Sprayer</a></li>
+        <li><a href="https://www.sbir.gov/about">Proposal: </a></li>
       </ul>
     </ul>
   </li>
+  
 </ul>
 
