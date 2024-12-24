@@ -10,7 +10,7 @@ redirect_from:
 
 I am Mohammad Amir Eshraghi, a researcher in Artificial Intelligence and Machine Vision. I am passionate about filling the gaps between deep learning, embedded AI, and robotic systems by contributing to egocentric AI and 3D recognition to address real-world challenges.
 
-Recently, I have been collaborating with researchers at [Oregon State University (OSU)](www.oregonstate.edu) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
+Recently, I have been collaborating with researchers at Oregon State University (OSU) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
 
 Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran University of Science and Technology (IUST), where I specialized in Digital Electronic Systems and Intelligent Systems and developed innovative AI-based solutions for medical applications, including leukemia and COVID-19 diagnosis systems using computer vision and image processing methods. I have collaborated with esteemed research groups across multiple institutions, contributing to impactful projects in AI for healthcare, and publishing my work in peer-reviewed journals.
 
