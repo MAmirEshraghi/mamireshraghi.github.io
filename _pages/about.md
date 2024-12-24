@@ -81,16 +81,13 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 ## Academic Experiences
 
 <ul>
-    <li>Research Collaborator, Oregon State University (OSU), USA
+    <li><b>Research Collaborator</b>, Oregon State University (OSU), USA
     <br />
-    <font size="3">
-      •
-    </font> 
     <br /> 
     </li>
 </ul>
 <ul>
-    <li>Research Assistant, Iran University of Science and Technology (IUST), Iran
+    <li><b>Research Assistant</b>, Iran University of Science and Technology (IUST), Iran
     <br />
     <font size="3">
       Bioelectronic Lab, (Dr. Ahmad Ayatollahi) |
@@ -100,7 +97,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     </li>
 </ul>
 <ul>
-    <li>Research Assistant, Iran University of Science and Technology (IUST), Iran
+    <li><b>Research Assistant</b>, Iran University of Science and Technology (IUST), Iran
     <br />
     <font size="3">
       Machine Vision Lab, (Dr. Baradaran Shahriar Shokouhi) |
@@ -110,7 +107,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     </li>
 </ul>
 <ul>
-    <li>Research Collaborator, Shahid Beheshti University of Medical Sciences (SBUMS), Iran
+    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), Iran
     <br />
     <font size="3">
       Hematology Research Group, (Dr. Mustafa Ghaderzadeh) |
@@ -120,7 +117,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     </li>
 </ul>
 <ul>
-    <li>Research Collaborator, Shahid Beheshti University of Medical Sciences (SBUMS), Iran      
+    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), Iran      
     <br />
     <font size="3">
       Radiology Research Group, (Dr. Mustafa Ghaderzadeh) |
@@ -132,13 +129,13 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 
 ## Research and Projects
 <ul>
-  
-  
+    
   <li>
     <strong>2024</strong>
     <ul>
-      <li><a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">Weed Identification embedded on Ground Robot for Automatic Sprayer</a></li>
-      <li><a href="https://www.sbir.gov/about">Proposal: </a></li>
+      <li>Proposal: Adaptive 4D Vision in Robotics <a href="https://www.sbir.gov/about">PDF</a></li>
+      <li>Weed Identification System, embedded on Ground Robot for Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">GitHub</a></li>
+      <li><a href="https://www.sbir.gov/about">Proposal: Smart Vertical Farming Monitoring System</a></li>
     </ul>
   </li>
   
