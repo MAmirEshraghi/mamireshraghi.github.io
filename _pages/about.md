@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mohammad Amir Eshraghi, a researcher in Artificial Intelligence and Machine Vision. I am passionate about filling the gaps between deep learning, embedded AI, and robotic systems by contributing to egocentric AI and 3D recognition to address real-world challenges.
+I am Mohammad Amir Eshraghi, a researcher in Artificial Intelligence and Machine Vision. I am passionate about filling the gaps between deep learning, embodied AI, and robotic systems by contributing to egocentric AI and 3D recognition to develop intelligent robots that address real-world challenges.
 
 Recently, I have been collaborating with researchers at Oregon State University (OSU) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
 
