@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Amir Eshraghi"
-  avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/main/images/IMG_41521.jpg"
+  avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/master/images/photo_2024-12-24_16-20-12.jpg"
   bio              : "Prospective PhD Student | MSc"
-  location         : "Oregon State University"
-  employer         : "Corvallis, OR, USA"
+  location         : "Corvallis, OR, USA"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=HaqcgSUAAAAJ&hl=en"
   email            : "eshraghi.mamir@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Mohammad_Amir_Eshraghi" # example: "https://www.researchgate.net/profile/yourprofile"
