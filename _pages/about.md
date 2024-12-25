@@ -129,11 +129,16 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
 
 ## Research and Projects
 <ul>
-    
+  <li>
+    <strong>2025</strong>
+    <ul>
+      <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">PDF</a></li>
+    </ul>
+  </li>
+  
   <li>
     <strong>2024</strong>
     <ul>
-      <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://www.sbir.gov/about">PDF</a></li>
       <li>Weed Identification System, embedded on Ground Robot for Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">GitHub</a></li>
       <li>Smart Vertical Farming Monitoring System  (Proposal) <a href="https://drive.google.com/file/d/18qxlXtQIkhPhHPIL9FdRtes0AgO_WyLL/view?usp=sharing">PDF</a></li>
     </ul>
