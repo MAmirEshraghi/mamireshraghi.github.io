@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robben Eshraghi"
+title                    : "Robin Eshraghi"
 title_separator          : "-"
-name                     : &name "Mohammad Amir (Robben) Eshraghi"
-description              : &description "Eng. | Prospective PhD Student"
+name                     : &name "Mohammad Amir (Robin) Eshraghi"
+description              : &description "Eng. | PhD Student"
 url                      : https://MAmirEshraghi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MAmirEshraghi/mamireshraghi.github.io" 
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "RobbenEshraghi"
+    shortname            : "Robin"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Amir Eshraghi"
+  name             : "Robin M.A. Eshraghi"
   avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/master/images/photo_2024-12-24_16-20-12.jpg"
-  bio              : "Prospective PhD Student | MSc"
+  bio              : "PhD Student | MSc"
   location         : "Corvallis, OR, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=HaqcgSUAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   github           : "MAmirEshraghi"
   google_plus      :
   keybase          :
-  instagram        : "Robben.esh"
+  instagram        : "Robin.esh"
   lastfm           :
   linkedin         : "mohammadamir-eshraghi98"
   orcid            : 
