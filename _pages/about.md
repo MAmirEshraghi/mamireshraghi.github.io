@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohammad Amir Eshraghi, but I go by <b>Robin</b> in daily life! Formerly a Digital Electronic Engineer, now I've been a Researcher in the intersection of AI and Robotics. I am passionate about filling the gaps between deep learning, embodied AI, and robotic systems by contributing to egocentric AI and 3D recognition to develop intelligent robots that address real-world challenges.
+I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a Digital Electronic Engineer, now I've been a Researcher in the intersection of AI and Robotics. I am passionate about filling the gaps between deep learning, embodied AI, and robotic systems by contributing to egocentric AI and 3D recognition to develop intelligent robots that address real-world challenges.
 
 Recently, I have been collaborating with researchers at Oregon State University (OSU) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
 
