@@ -14,6 +14,48 @@ Recently, I have been collaborating with researchers at Oregon State University 
 
 Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran University of Science and Technology (IUST), where I specialized in Digital Electronic Systems and Intelligent Systems and developed innovative AI-based solutions for medical applications, including leukemia and COVID-19 diagnosis systems using computer vision and image processing methods. I have collaborated with esteemed research groups across multiple institutions, contributing to impactful projects in AI for healthcare, and publishing my work in peer-reviewed journals.
 
+## Research and Projects
+<ul>
+  <li>
+    <strong>2025</strong>
+    <ul>
+      <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">[PDF]</a></li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>2024</strong>
+    <ul>
+      <li>Weed Identification System, embedded on Ground Robot for Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a></li>
+      <li>Smart Vertical Farming Monitoring System  (Proposal) <a href="https://drive.google.com/file/d/18qxlXtQIkhPhHPIL9FdRtes0AgO_WyLL/view?usp=sharing">[PDF]</a></li>
+    </ul>
+  </li>
+
+<li>
+    <strong>2023</strong>
+    <ul>
+      <li>AI-based Leukemia Diagnosis Mobile Application <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">GitHub </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a></li>
+      <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
+    </ul>
+  </li>
+  
+ <li>
+    <strong>2022</strong>
+    <ul>
+      <li>AI-based Covid-19 Diagnosis Systems: COV-MobNets framework <a href="https://github.com/MAmirEshraghi/COV-MobNets">GitHub</a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a><a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a></li>
+      <li>AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [PublishedData_Kaggle] </a>  <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a></li>
+    </ul>
+  </li> 
+
+ <li>
+    <strong>2017-2019</strong>
+    <ul>
+      <li>IoT-based Embedded System</li>
+      <li>Advanced Line-Following Robot <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a></li>
+    </ul>
+  </li> 
+  
+</ul>
 
 
 ## Publications
@@ -127,46 +169,5 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     </li>
 </ul>
 
-## Research and Projects
-<ul>
-  <li>
-    <strong>2025</strong>
-    <ul>
-      <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">PDF</a></li>
-    </ul>
-  </li>
-  
-  <li>
-    <strong>2024</strong>
-    <ul>
-      <li>Weed Identification System, embedded on Ground Robot for Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">GitHub</a></li>
-      <li>Smart Vertical Farming Monitoring System  (Proposal) <a href="https://drive.google.com/file/d/18qxlXtQIkhPhHPIL9FdRtes0AgO_WyLL/view?usp=sharing">PDF</a></li>
-    </ul>
-  </li>
 
-<li>
-    <strong>2023</strong>
-    <ul>
-      <li>AI-based Leukemia Diagnosis Mobile Application <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">GitHub </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> Paper</a></li>
-      <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">GitHub</a></li>
-    </ul>
-  </li>
-  
- <li>
-    <strong>2022</strong>
-    <ul>
-      <li>AI-based Covid-19 Diagnosis Systems: COV-MobNets framework <a href="https://github.com/MAmirEshraghi/COV-MobNets">GitHub</a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">Kaggle</a><a href="https://doi.org/10.1186/s12880-023-01039-w">Paper</a></li>
-      <li>AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> GitHub </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> PublishedData_Kaggle </a>  <a href="https://doi.org/10.1155/2022/4838009"> Paper</a></li>
-    </ul>
-  </li> 
-
- <li>
-    <strong>2017-2019</strong>
-    <ul>
-      <li>IoT-based Embedded System</li>
-      <li>Advanced Line-Following Robot <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> GitHub </a></li>
-    </ul>
-  </li> 
-  
-</ul>
 
