@@ -19,6 +19,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
   <li>
     <strong>2025</strong>
     <ul>
+      <li>Simulated Deep Reinforcement Learning for Efficient Robotic Grasping <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a></li>
       <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">[PDF]</a></li>
     </ul>
   </li>
@@ -26,7 +27,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
   <li>
     <strong>2024</strong>
     <ul>
-      <li>Weed Identification System, embedded on Ground Robot for Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a></li>
+      <li>Weed Identification System for Ground Robot's Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a></li>
       <li>Smart Vertical Farming Monitoring System  (Proposal) <a href="https://drive.google.com/file/d/18qxlXtQIkhPhHPIL9FdRtes0AgO_WyLL/view?usp=sharing">[PDF]</a></li>
     </ul>
   </li>
