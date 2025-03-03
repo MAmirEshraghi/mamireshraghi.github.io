@@ -23,7 +23,7 @@ Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran Un
     <li>
       Simulated Deep Reinforcement Learning for Efficient Robotic Grasping
       <br />
-      <img src="/assets/images/2025-deep-rl.jpg" alt="Deep RL Grasping" style="max-width:200px;" />
+      <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:200px;" />
       <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
     </li>
   </ul>
