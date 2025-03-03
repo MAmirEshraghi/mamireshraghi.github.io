@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a Digital Electronic Engineer, now I've been a Researcher in the intersection of AI and Robotics. I am passionate about filling the gaps between deep learning, embodied AI, and robotic systems by contributing to egocentric AI and 3D recognition to develop intelligent robots that address real-world challenges.
+I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a Digital Electronic Engineer, and recently an applied AI engineer, now I've been a Researcher in the intersection of AI and Robotics. 
 
-Recently, I have been collaborating with researchers at Oregon State University (OSU) to design a transformer-based machine vision system implemented on smartphone and robotic systems, enabling real-time decision-making for agricultural purposes.
 
-Before joining OSU, I earned my M.Sc. in Electrical Engineering from the Iran University of Science and Technology (IUST), where I specialized in Digital Electronic Systems and Intelligent Systems and developed innovative AI-based solutions for medical applications, including leukemia and COVID-19 diagnosis systems using computer vision and image processing methods. I have collaborated with esteemed research groups across multiple institutions, contributing to impactful projects in AI for healthcare, and publishing my work in peer-reviewed journals.
 
 ## Research and Projects
 <ul>
