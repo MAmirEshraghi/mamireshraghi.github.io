@@ -68,8 +68,21 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
  <li>
     <strong>2022</strong>
     <ul>
-      <li>AI-based Covid-19 Diagnosis Systems: COV-MobNets framework <a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a><a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a></li>
-      <li>AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a>  <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a></li>
+
+      <li>
+      AI-based Covid-19 Diagnosis Systems: COV-MobNets framework 
+      <br/>
+      <img src="/assets/images/COV06.png" alt="cov" style="max-width:200px;" />      
+      <a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a><a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a>
+      </li>
+      
+      <li>
+      AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework 
+      <br/>
+      <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:200px;" />      
+      <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a>  <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a>
+      </li>
+      
     </ul>
   </li> 
 
@@ -77,7 +90,17 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <strong>2017-2019</strong>
     <ul>
       <li>IoT-based Embedded System</li>
-      <li>Advanced Line-Following Robot <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a></li>
+      
+      <li>
+      Advanced Line-Following Robot  
+      <br/>
+      <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:200px;" />      
+      <img src="/assets/images/R02.jpg" alt="R2" style="max-width:200px;" />
+      <img src="/assets/images/R04.gif" alt="R3" style="max-width:200px;" />
+
+      <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
+      </li>
+      
     </ul>
   </li> 
   
