@@ -97,7 +97,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
       <br/>
       <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:200px;" />      
       <img src="/assets/images/R02.jpg" alt="R2" style="max-width:200px;" />
-      <img src="/assets/images/R04.gif" alt="R3" style="max-width:200px;" />
+      <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
 
       <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
       </li>
