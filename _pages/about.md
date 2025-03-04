@@ -38,9 +38,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
   
   <li>
     <strong>2024</strong>
-    <ul>
-      <li>Weed Identification System for Ground Robot's Automatic Sprayer <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a></li>
-      
+    <ul>      
       <li>
       Weed Identification System for Ground Robot's Automatic Sprayer 
       <br/>
@@ -55,7 +53,14 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 <li>
     <strong>2023</strong>
     <ul>
-      <li>AI-based Leukemia Diagnosis Mobile Application <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a></li>
+      <li>
+      AI-based Leukemia Diagnosis Mobile Application 
+      <br/>
+      <img src="/assets/images/LeukemiaClassificatio1" alt="X" style="max-width:200px;" />      
+      <img src="/assets/images/LeukemiaClassificatio2" alt="X" style="max-width:200px;" />
+      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
+      </li>
+      
       <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
     </ul>
   </li>
