@@ -16,9 +16,10 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 <ul>
 
   <li>
-  <strong>2025</strong>
+  <strong>2026</strong>
   <ul>
-    
+      <li>Next generation of Intelligence Robotics</li>
+
   </ul>
 </li>
 
@@ -27,9 +28,9 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <strong>2025</strong>
     <ul>
       <li>
-      Simulated Deep Reinforcement Learning for Efficient Robotic Grasping
+      Simulated Deep Reinforcement Learning for Robotic Grasping
       <br/>
-      <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:200px;" />
+      <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:300px;" />
       <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
       </li>
       <li>Adaptive 4D Vision in Robotics (Proposal) <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">[PDF]</a></li>
