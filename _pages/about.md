@@ -18,7 +18,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
   <li>
   <strong>2026</strong>
   <ul>
-      <li>Next generation of Intelligence Robotics</li>
+      <li>Next generation of Intelligence Robotics (in progress) </li>
 
   </ul>
 </li>
@@ -57,10 +57,11 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>
       <li>
       AI-based Leukemia Diagnosis Mobile Application 
+      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
       <br/>
       <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:300px;" />      
       <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:300px;" />
-      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
+      
       </li>
       
       <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
