@@ -29,9 +29,9 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>
       <li>
       Simulated Deep Reinforcement Learning for Robotic Grasping
+      <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
       <br/>
       <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:300px;" />
-      <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
       </li>
       <li><b>Proposal:</b> Adaptive 4D Vision in Robotics <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">[PDF]</a></li>
     </ul>
@@ -42,10 +42,10 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>      
       <li>
       Weed Identification System Based on Drone Images 
+      <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a>
       <br/>
       <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
       <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
-      <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a>
       </li>
       
       <li><b>Proposal:</b> Smart Vertical Farming Monitoring System<a href="https://drive.google.com/file/d/18qxlXtQIkhPhHPIL9FdRtes0AgO_WyLL/view?usp=sharing">[PDF]</a></li>
@@ -57,14 +57,14 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>
       <li>
       AI-based Leukemia Diagnosis Mobile Application 
-      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
+      <a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
       <br/>
       <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:300px;" />      
       <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:300px;" />
       
       </li>
       
-      <li>AI-based White Blood Cell Classification App <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
+      <li>AI-based White Blood Cell Classification <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
     </ul>
   </li>
   
@@ -74,16 +74,16 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 
       <li>
       AI-based Covid-19 Diagnosis Systems: COV-MobNets framework 
+      <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
       <br/>
       <img src="/assets/images/COV06.png" alt="cov" style="max-width:200px;" />      
-      <a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a><a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a>
       </li>
       
       <li>
       AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework 
+      <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
       <br/>
       <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:200px;" />      
-      <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a>  <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a>
       </li>
       
     </ul>
@@ -95,13 +95,14 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
       <li>IoT-based Embedded System</li>
       
       <li>
-      Advanced Line-Following Robot  
+      Advanced Line-Following Robot 
+      <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
       <br/>
-      <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:200px;" />      
-      <img src="/assets/images/R02.jpg" alt="R2" style="max-width:200px;" />
+      <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:250px;" />      
+      <img src="/assets/images/R02.jpg" alt="R2" style="max-width:250px;" />
       <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
 
-      <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
+  
       </li>
       
     </ul>
