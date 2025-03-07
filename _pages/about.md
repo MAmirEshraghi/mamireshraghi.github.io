@@ -43,9 +43,9 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
       <li>
       Weed Identification System Based on Drone Images 
       <br/>
-      <img src="/assets/images/W1.png" alt="X" style="max-width:200px;" />
-      <img src="/assets/images/w2.gif" alt="X" style="max-width:200px;" />
-      <img src="/assets/images/w3.jpg" alt="X" style="max-width:200px;" />
+      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
+      <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
+      <img src="/assets/images/w3.png" alt="w3" style="max-width:200px;" />
       <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a>
       </li>
       
