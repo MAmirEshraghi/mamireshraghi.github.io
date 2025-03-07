@@ -57,7 +57,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>
       <li>
       AI-based Leukemia Diagnosis Mobile Application 
-      <a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper]</a><a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
+      <a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
       <br/>
       <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:300px;" />      
       <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:300px;" />
@@ -73,17 +73,17 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     <ul>
 
       <li>
-      AI-based Covid-19 Diagnosis Systems: COV-MobNets framework 
-      <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper]</a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
+      COV-MobNets framework based on MobileViT & MobileNetV3
+      <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper] </a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
       <br/>
-      <img src="/assets/images/COV06.png" alt="cov" style="max-width:200px;" />      
+      <img src="/assets/images/COV06.png" alt="cov" style="max-width:250px;" />      
       </li>
       
       <li>
       AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework 
-      <a href="https://doi.org/10.1155/2022/4838009"> [Paper]</a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
+      <a href="https://doi.org/10.1155/2022/4838009"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
       <br/>
-      <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:200px;" />      
+      <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:250px;" />      
       </li>
       
     </ul>
