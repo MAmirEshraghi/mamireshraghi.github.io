@@ -222,5 +222,37 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     </li>
 </ul>
 
+## Education
 
+
+<ul>
+    <li><b>PhD</b>, Oregon State University    
+      <br />
+    <font size="3">
+
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>MSc in Digital Electronic Systems</b>, Iran University of Science and Technology   
+      <br />
+    <font size="3">
+    First-rank GPA, GPA= 18.78/20
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>B.E | A.E. in Electronic Engineering</b>, Technical and Vocational University
+      <br />
+    <font size="3">
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
 
