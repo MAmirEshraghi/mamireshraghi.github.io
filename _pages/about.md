@@ -31,7 +31,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
       Simulated Deep Reinforcement Learning for Robotic Grasping
       <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
       <br/>
-      <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:300px;" />
+      <img src="/assets/images/kukaGif.gif" alt="Deep RL Grasping" style="max-width:400px;" />
       </li>
       <li><b>Proposal:</b> Adaptive 4D Vision in Robotics <a href="https://drive.google.com/file/d/1CmgPDMaeNDZDXmEzazgXfhtXzJTo-e01/view?usp=sharing">[PDF]</a></li>
     </ul>
@@ -226,7 +226,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 
 
 <ul>
-    <li><b>PhD</b>, Oregon State University    
+    <li><b>Ph.D.</b>, Oregon State University    
       <br />
     <font size="3">
 
@@ -236,7 +236,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 </ul>
 
 <ul>
-    <li><b>MSc in Digital Electronic Systems</b>, Iran University of Science and Technology   
+    <li><b>M.Sc. in Digital Electronic Systems</b>, Iran University of Science and Technology   
       <br />
     <font size="3">
     First-rank GPA, GPA= 18.78/20
@@ -254,5 +254,10 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
     </li>
 </ul>
 
-<ul>
+## Gallery 
+
+<img src="/assets/images/m11.jpg" alt="L1" style="max-width:300px;" /> 
+<img src="/assets/images/m44.jpg" alt="L1" style="max-width:300px;" /> 
+<img src="/assets/images/m22.jpg" alt="L1" style="max-width:300px;" /> 
+
 
