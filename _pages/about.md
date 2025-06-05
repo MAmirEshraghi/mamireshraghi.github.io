@@ -28,8 +28,8 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robben</b> in daily life! Formerly a 
     <strong>2025</strong>
     <ul>
        <li>
-      Simulated and path planning for apple
-      <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
+      Simulated and path planning for Apple picking
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/Apple_Picking_RobinEsh">[GitHub]</a>
       <br/>
       <img src="/assets/images/apple.gif" alt="Deep RL Grasping" style="max-width:400px;" />
       </li>
