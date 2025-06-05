@@ -27,6 +27,12 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robben</b> in daily life! Formerly a 
   <li>
     <strong>2025</strong>
     <ul>
+       <li>
+      Simulated and path planning for apple
+      <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
+      <br/>
+      <img src="/assets/images/apple.gif" alt="Deep RL Grasping" style="max-width:400px;" />
+      </li>
       <li>
       Simulated Deep Reinforcement Learning for Robotic Grasping
       <a href="https://github.com/MAmirEshraghi/Deep-RL-Grasping">[GitHub]</a>
