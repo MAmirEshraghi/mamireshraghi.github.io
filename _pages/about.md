@@ -31,7 +31,7 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
       Simulated and path planning for Apple picking
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/Apple_Picking_RobinEsh">[GitHub]</a>
       <br/>
-      <img src="/assets/images/apple.gif" alt="Deep RL Grasping" style="max-width:400px;" />
+      <img src="/assets/images/apple2.gif" alt="Deep RL Grasping" style="max-width:400px;" />
       </li>
       <li>
       Simulated Deep Reinforcement Learning for Robotic Grasping
