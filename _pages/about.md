@@ -270,7 +270,6 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engin
 ## Gallery 
 
 <img src="/assets/images/m11.jpg" alt="L1" style="max-width:300px;" /> 
-<img src="/assets/images/m44.jpg" alt="L1" style="max-width:300px;" /> 
-<img src="/assets/images/m22.jpg" alt="L1" style="max-width:300px;" /> 
+
 
 
