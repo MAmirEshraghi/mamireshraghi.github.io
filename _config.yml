@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robben Eshraghi"
+title                    : "Robin Eshraghi"
 title_separator          : "-"
 name                     : &name "Mohammad Amir (Robin) Eshraghi"
 description              : &description "MSc. | PhD Student"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robben M.A. Eshraghi"
+  name             : "Robin M.A. Eshraghi"
   avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/master/images/photo_2024-12-24_16-20-12.jpg"
   bio              : "PhD Student | MSc"
   location         : "Corvallis, OR, USA"
