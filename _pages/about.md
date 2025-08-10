@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a Digital Electronic Engineer, and recently an applied AI engineer, now I've been a Researcher in the intersection of AI and Robotics. 
-
+I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engineer and Researcher with a background in Electronics, Artificial Intelligence, and Robotics. I am interested in addressing real-world challenges using engineering methodologies. 
 
 
 ## Research and Projects
@@ -253,6 +252,14 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! Formerly a D
 
 <ul>
     <li><b>B.E | A.E. in Electronic Engineering</b>, Technical and Vocational University
+      <br />
+    <font size="3">
+    </font> 
+    <br /> 
+    </li>
+</ul>
+<ul>
+    <li><b>Diploma in Electronics </b>, Technical and Vocational School
       <br />
     <font size="3">
     </font> 
