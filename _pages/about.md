@@ -24,6 +24,13 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </ul>
   </li>
 
+  <li>
+          Links:
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[Video: 3D object deduplication with SAM]</a>
+      <br/>
+      <img src="/assets/images/apple2.gif" alt="Deep RL Grasping" style="max-width:400px;" />
+      </li>
+
 
   <li>
     <strong>Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting (2025)</strong>
@@ -32,10 +39,10 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement. 
       </li>
        <li>
-          Simulated and path planning for Apple picking
-      <a href="XXX">[GitHub]</a>
+          Links:
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=L9cdALAOvzs">[YouTube Demo]</a>
       <br/>
-      <img src="/assets/images/apple2.gif" alt="Deep RL Grasping" style="max-width:400px;" />
+      <img src="/assets/armRobot1.gif" alt="arm" style="max-width:400px;" />
       </li>
       <li>
       Simulated Deep Reinforcement Learning for Robotic Grasping
