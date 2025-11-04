@@ -18,7 +18,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 <ul>
 
   <li>
-  <strong>3D Semantic Object Grounding for Vision-Language-Aware Robots (2025-26)</strong> 
+  <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots </strong> 
     <ul> <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li> 
   
   <li>Links:
@@ -30,7 +30,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 </li>
 
   <li>
-    <strong>Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting (2025)</strong>
+    <strong>[2025] Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting </strong>
     <ul>
       <li>developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement.</li>
        <li>
@@ -43,10 +43,9 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   </li>
   
   <li>
-    <strong>Weed Detection and Mapping System </strong>
+    <strong>[2024] Weed Detection and Mapping System</strong>
     <ul>      
-      <li>
-      Weed Identification System Based on Drone Images 
+      <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
       <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a>
       <br/>
       <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
@@ -56,47 +55,41 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   </li>
 
 <li>
-    <strong>2023</strong>
+    <strong>[2023] AI-based Leukemia Diagnosis Mobile Application </strong>
     <ul>
-      <li>
-      AI-based Leukemia Diagnosis Mobile Application 
+      <li>Developed a smartphone-based AI System for detection and staging of leukemia in blood cells using microscopic images.</li>
+      <li>Links:  
       <a href="https://doi.org/10.1016/j.imu.2023.101244"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub] </a><a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class"> [Data_Kaggle]</a>
       <br/>
       <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:300px;" />      
       <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:300px;" />
-      
       </li>
-      
-      <li>AI-based White Blood Cell Classification <a href="https://github.com/MAmirEshraghi/WBC-Classification-App">[GitHub]</a></li>
     </ul>
   </li>
   
  <li>
-    <strong>2022</strong>
+    <strong>[2021-22] AI-based Covid-19 Diagnosis Systems</strong>
     <ul>
-
+      <li> <strong>(1) COV-MobNets framework:</strong> Combined lightweight CNN and ViT models for X-ray classification</li>
       <li>
-      COV-MobNets framework based on MobileViT & MobileNetV3
+      Links:
       <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper] </a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
       <br/>
       <img src="/assets/images/COV06.png" alt="cov" style="max-width:250px;" />      
       </li>
-      
+      <li> <strong>(2) Dual-phase CNN-based framework:</strong> Modified ResNet and DenseNet models. Utilized image augmentations </li>
       <li>
-      AI-based Covid-19 Diagnosis Systems: Dual-phase CNN-based framework 
+      Links:  
       <a href="https://doi.org/10.1155/2022/4838009"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
       <br/>
       <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:250px;" />      
       </li>
-      
     </ul>
   </li> 
 
  <li>
     <strong>2017-2019</strong>
     <ul>
-      <li>IoT-based Embedded System</li>
-      
       <li>
       Advanced Line-Following Robot 
       <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
@@ -104,10 +97,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:250px;" />      
       <img src="/assets/images/R02.jpg" alt="R2" style="max-width:250px;" />
       <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
-
-  
-      </li>
-      
+      </li>   
     </ul>
   </li> 
   
