@@ -15,9 +15,9 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engin
 <ul>
 
   <li>
-  <strong>2026</strong>
+  <strong>3D Semantic Object Grounding for Vision-Language-Aware Robots (2025-26)</strong>
   <ul>
-      <li>Next generation of Intelligence Robotics (in progress) </li>
+      <li>This project enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li>
 
   </ul>
 </li>
