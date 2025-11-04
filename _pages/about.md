@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engineer and Researcher with a background in Electronics, Artificial Intelligence, and Robotics. I am interested in addressing real-world challenges using engineering methodologies. 
+I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! 
+
+I'm an Engineer and Researcher with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligence autonomous machines that sense, adapt, and connect to advance embodied intelligence, drawing inspiration from natural intelligence in humans and animals.
+
 
 
 ## Research and Projects
@@ -23,10 +26,10 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engin
 
 
   <li>
-    <strong>Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting</strong>
+    <strong>Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting (2025)</strong>
     <ul>
       <li>
-      This project develops a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement. 
+      developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement. 
       </li>
        <li>
           Simulated and path planning for Apple picking
