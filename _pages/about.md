@@ -15,19 +15,21 @@ I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! I'm an Engin
 <ul>
 
   <li>
-  <strong>3D Semantic Object Grounding for Vision-Language-Aware Robots (2025-26)</strong>
-  <ul>
-      <li>This project enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li>
-
-  </ul>
-</li>
+  <strong>3D Semantic Object Grounding for Vision-Language-Aware Robots (2025-26)</strong> 
+    <ul>
+      <li>This DARPA-funded project enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li>
+    </ul>
+  </li>
 
 
   <li>
-    <strong>2025</strong>
+    <strong>Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting</strong>
     <ul>
+      <li>
+      This project develops a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement. 
+      </li>
        <li>
-      Simulated and path planning for Apple picking
+          Simulated and path planning for Apple picking
       <a href="XXX">[GitHub]</a>
       <br/>
       <img src="/assets/images/apple2.gif" alt="Deep RL Grasping" style="max-width:400px;" />
