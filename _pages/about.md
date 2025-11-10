@@ -18,60 +18,62 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 <ul>
 
   <li>
-  <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots </strong> 
-    <ul> <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li> 
-   
-  <li>Links:
-      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
-      <br/>
-  </li>
+  <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots</strong>
+  <ul>
+    <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li>
 
-  <li>
-        <div class="video-row">
-  
-          <div class="video-item">
-            <h4>weekly update sample</h4>
-            <div class="video-container">
-              <iframe 
-                src="https://www.youtube.com/embed/SwY2Jn_4mQ0" 
-                title="YouTube video player 1" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                allowfullscreen>
-              </iframe>
-            </div>
+    <li>Links:
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a>
+      <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
+      <br/>
+    </li>
+
+    <li>
+      <div class="video-row">
+        <!-- Video 1 -->
+        <div class="video-item">
+          <h4>weekly update sample</h4>
+          <div class="video-container">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
+              title="weekly update sample"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
           </div>
-        
-          <div class="video-item">
-            <h4>Spot robot language guided navigation in Isaacsim</h4>
-            <div class="video-container">
-              <iframe 
-                src="https://www.youtube.com/embed/DUtXddkQi6I" 
-                title="YouTube video player 2" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                allowfullscreen>
-              </iframe>
-            </div>
-          </div>
-        
-          <div class="video-item">
-            <h4>Demo: object point cloud from segmentation</h4>
-            <div class="video-container">
-              <iframe 
-                src="https://www.youtube.com/embed/SizqEv7UecE" 
-                title="YouTube video player 3" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                allowfullscreen>
-              </iframe>
-            </div>
-          </div>
-        
         </div>
-      </li>
-     
-</ul>
+
+        <!-- Video 2 -->
+        <div class="video-item">
+          <h4>Spot robot language guided navigation in Isaacsim</h4>
+          <div class="video-container">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
+              title="Spot robot navigation in Isaacsim"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+
+        <!-- Video 3 -->
+        <div class="video-item">
+          <h4>Demo: object point cloud from segmentation</h4>
+          <div class="video-container">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
+              title="Object point cloud demo"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
 </li>
 
   <li>
@@ -306,43 +308,57 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 <style>
-/* --- This creates the row layout --- */
+/* Video Grid Layout */
 .video-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 20px;
+  margin: 20px 0;
+  justify-content: center;
 }
 
-/* --- This styles each video item --- */
+/* Each Video Item */
 .video-item {
-  flex: 1 1 45%;
-  min-width: 300px;
-  text-align: center;
+  flex: 1 1 300px;
+  max-width: 400px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  text-align: center;
 }
 
-/* --- Fix: Remove default h4 margin --- */
+/* Title above video */
 .video-item h4 {
-  margin: 0 0 8px 0; /* Only bottom margin, no top */
-  font-size: 1em;
+  margin: 0 0 8px 0 !important;
+  padding: 0;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: #2c3e50;
+  line-height: 1.3;
 }
 
-/* --- This makes the videos responsive --- */
+/* 16:9 Responsive Container */
 .video-container {
   position: relative;
-  overflow: hidden;
   width: 100%;
   padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  background: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
 }
 
+.video-container:hover {
+  transform: scale(1.02);
+}
+
+/* iframe fills container perfectly */
 .video-container iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  border: none;
+  border: 0;
 }
 </style>
