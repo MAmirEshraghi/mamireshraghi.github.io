@@ -325,7 +325,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 75%; /* Changed from 56.25% to 75% for 4:3 ratio */
+  padding-top: 42%; /* Much shorter - wide landscape format */
   background: #000;
   border-radius: 4px;
   overflow: hidden;
@@ -352,6 +352,10 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   .video-item {
     flex: 1 1 100%;
     max-width: 100%;
+  }
+  
+  .video-container {
+    padding-top: 56.25%; /* Standard 16:9 on mobile */
   }
 }
 </style>
