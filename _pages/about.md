@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohammad Amir Eshraghi, and I go by <b>Robin</b> in daily life! 
+I'm Mohammad Amir, and I go by <b>Robin</b> in daily life! 
 
 I'm an Engineer and Researcher with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligence autonomous machines that sense, adapt, and connect to advance embodied intelligence, drawing inspiration from natural intelligence in humans and animals.
 
@@ -73,7 +73,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </div>
   </div>
 </div>
-  </div>
 </li>
 
   <li>
@@ -215,24 +214,31 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 ## Academic Experiences
 
+
 <ul>
-    <li><b>Intership</b>, Oregon State University (OSU), USA
-    <br />
-    <br /> 
-    </li>
-</ul>
-<ul>
-    <li><b>Research Assistant</b>, Iran University of Science and Technology (IUST), Iran
+    <li><b>Graduate Research Assistant</b>,  Oregon State University (OSU), 
     <br />
     <font size="3">
-      Bioelectronic Lab, (Dr. Ahmad Ayatollahi) |
-      Master Thesis in WBC Image Classification based on ViT and attention concepts
+      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL), (Prof. Alan Fern) |
+      Spot Robot Perception System: as an AI Software Developer, contribute to a real-time scene understanding for the Spot robot to enable language-guided navigation
     </font> 
     <br /> 
     </li>
 </ul>
+
 <ul>
-    <li><b>Research Assistant</b>, Iran University of Science and Technology (IUST), Iran
+    <li><b>Project Internship</b>,  Oregon State University (OSU), 
+    <br />
+    <font size="3">
+      Robotics Lab (Prof. Cindy Grimm) |
+      Apple-Picking Simulation: Contributed to the simulation development of apple trees, implemented RRT path planning with integration of camera check on Ur5 to generate collision-free trajectories to enable apple approaching by training RL agent within behavioral cloning.
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
     <br />
     <font size="3">
       Machine Vision Lab, (Dr. Baradaran Shahriar Shokouhi) |
@@ -242,7 +248,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </li>
 </ul>
 <ul>
-    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), Iran
+    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), 
     <br />
     <font size="3">
       Hematology Research Group, (Dr. Mustafa Ghaderzadeh) |
@@ -266,17 +272,17 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 <ul>
-    <li><b>Ph.D.</b>, Oregon State University    
+    <li><b>M.Sc. in Artificial Intelligence</b>, Oregon State University  
       <br />
     <font size="3">
-
+    Graduate Research Assistant
     </font> 
     <br /> 
     </li>
 </ul>
 
 <ul>
-    <li><b>M.Sc. in Digital Electronic Systems</b>, Iran University of Science and Technology    
+    <li><b>M.Sc. in Digital Electronic Systems</b>, University of Science and Technology (IUST)
       <br />
     <font size="3">
     First-rank GPA, GPA= 18.78/20
