@@ -269,4 +269,21 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 <img src="/assets/images/m11.jpg" alt="L1" style="max-width:300px;" /> 
 
 
+<style>
+.video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 
