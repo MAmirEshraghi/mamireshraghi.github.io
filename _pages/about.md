@@ -302,9 +302,9 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 15px;
   justify-content: center;
-  margin: 25px 0;
+  margin: 15px 0;
 }
 
 .video-item {
@@ -314,12 +314,12 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 }
 
 .video-item h4 {
-  margin: 0 0 12px 0 !important;
-  padding: 0;
-  font-size: 1em;
+  margin: 0 0 8px 0 !important;
+  padding: 0 !important;
+  font-size: 0.95em;
   font-weight: 600;
   color: #2c3e50;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .video-container {
@@ -327,14 +327,15 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   width: 100%;
   padding-top: 56.25%;
   background: #000;
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
 }
 
 .video-container:hover {
-  transform: translateY(-4px);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
 }
 
 .video-container iframe {
