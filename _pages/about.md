@@ -311,7 +311,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 /* --- This styles each video item in the row --- */
 .video-item {
   flex: 1;            
-  min-width: 280px;   /* You can change this number */
+  min-width: 95px;   /* You can change this number */
   text-align: center; 
   
   /* --- ADD THESE 3 LINES TO FIX THE GAP --- */
