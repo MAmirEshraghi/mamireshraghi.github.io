@@ -24,7 +24,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   <li>Links:
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
       <br/>
-      <img src="/assets/images/apple2.gif" alt="img" style="max-width:400px;" />
   </li>
 
   <li>
