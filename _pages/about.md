@@ -297,7 +297,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 <img src="/assets/images/m11.jpg" alt="L1" style="max-width:300px;" /> 
 
-
 <style>
 .video-row {
   display: flex;
@@ -326,7 +325,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 aspect ratio */
+  padding-top: 75%; /* Changed from 56.25% to 75% for 4:3 ratio */
   background: #000;
   border-radius: 4px;
   overflow: hidden;
