@@ -334,7 +334,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 33%; /* Much shorter - wide landscape format */
+  padding-top: 25%; /* Much shorter - wide landscape format */
   background: #000;
   border-radius: 4px;
   overflow: hidden;
