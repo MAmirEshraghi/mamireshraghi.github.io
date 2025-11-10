@@ -304,17 +304,17 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 /* --- This creates the row layout --- */
 .video-row {
   display: flex;
-  flex-wrap: wrap; /* This lets videos stack on small screens */
+  flex-wrap: wrap; /* This lets videos stack */
   gap: 15px;       /* This adds space between the videos */
 }
 
-/* --- This styles each video item in the row --- */
+/* --- This styles each video item --- */
 .video-item {
-  flex: 1;            
-  min-width: 95px;   /* You can change this number */
-  text-align: center; 
+  flex: 1 1 45%;      /* Grow, shrink, and start at 45% width */
+  min-width: 300px;   /* Ensure they don't get too small on mobile */
+  text-align: center;
   
-  /* --- ADD THESE 3 LINES TO FIX THE GAP --- */
+  /* --- Fix for the gap --- */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -336,4 +336,3 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   height: 100%;
 }
 </style>
-
