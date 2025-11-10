@@ -302,40 +302,35 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  margin: 15px 0;
+  gap: 10px;
+  justify-content: flex-start;
+  margin: 10px 0 20px 0;
 }
 
 .video-item {
-  flex: 1 1 300px;
-  max-width: 420px;
-  text-align: center;
+  flex: 1 1 calc(33.333% - 10px);
+  max-width: calc(33.333% - 10px);
+  min-width: 280px;
 }
 
 .video-item h4 {
-  margin: 0 0 8px 0 !important;
+  margin: 0 0 5px 0 !important;
   padding: 0 !important;
-  font-size: 0.95em;
+  font-size: 0.85em;
   font-weight: 600;
   color: #2c3e50;
-  line-height: 1.2;
+  line-height: 1.1;
+  text-align: center;
 }
 
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 56.25%;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
   background: #000;
-  border-radius: 8px;
+  border-radius: 4px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  transition: transform 0.2s ease;
-}
-
-.video-container:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
 .video-container iframe {
@@ -345,5 +340,19 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   width: 100% !important;
   height: 100% !important;
   border: 0 !important;
+}
+
+@media (max-width: 900px) {
+  .video-item {
+    flex: 1 1 calc(50% - 10px);
+    max-width: calc(50% - 10px);
+  }
+}
+
+@media (max-width: 600px) {
+  .video-item {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
 }
 </style>
