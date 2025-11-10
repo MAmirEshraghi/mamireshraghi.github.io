@@ -309,20 +309,24 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 /* --- This creates the row layout --- */
 .video-row {
   display: flex;
-  flex-wrap: wrap; /* This lets videos stack */
-  gap: 15px;       /* This adds space between the videos */
+  flex-wrap: wrap;
+  gap: 15px;
 }
 
 /* --- This styles each video item --- */
 .video-item {
-  flex: 1 1 45%;      /* This creates the 2-column layout */
-  min-width: 300px;   /* Prevents them from getting too small on mobile */
+  flex: 1 1 45%;
+  min-width: 300px;
   text-align: center;
-  
-  /* --- This fixes the gap by aligning title and video to the top --- */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+}
+
+/* --- Fix: Remove default h4 margin --- */
+.video-item h4 {
+  margin: 0 0 8px 0; /* Only bottom margin, no top */
+  font-size: 1em;
 }
 
 /* --- This makes the videos responsive --- */
@@ -339,5 +343,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   left: 0;
   width: 100%;
   height: 100%;
+  border: none;
 }
 </style>
