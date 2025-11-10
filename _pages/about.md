@@ -18,62 +18,52 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 <ul>
 
   <li>
-  <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots</strong>
-  <ul>
-    <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li>
-
-    <li>Links:
-      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a>
-      <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
-      <br/>
-    </li>
-
-    <li>
-      <div class="video-row">
-        <!-- Video 1 -->
-        <div class="video-item">
-          <h4>weekly update sample</h4>
-          <div class="video-container">
-            <iframe
-              src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
-              title="weekly update sample"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen>
-            </iframe>
-          </div>
-        </div>
-
-        <!-- Video 2 -->
-        <div class="video-item">
-          <h4>Spot robot language guided navigation in Isaacsim</h4>
-          <div class="video-container">
-            <iframe
-              src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
-              title="Spot robot navigation in Isaacsim"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen>
-            </iframe>
-          </div>
-        </div>
-
-        <!-- Video 3 -->
-        <div class="video-item">
-          <h4>Demo: object point cloud from segmentation</h4>
-          <div class="video-container">
-            <iframe
-              src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?modestbranding=1&rel=0&iv_load_policy=3&controls=1&showinfo=0"
-              title="Object point cloud demo"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen>
-            </iframe>
-          </div>
-        </div>
+  <div class="video-row">
+    <!-- Video 1 -->
+    <div class="video-item">
+      <h4>weekly update sample</h4>
+      <div class="video-container">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
+          title="weekly update sample"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy">
+        </iframe>
       </div>
-    </li>
-  </ul>
+    </div>
+
+    <!-- Video 2 -->
+    <div class="video-item">
+      <h4>Spot robot language guided navigation in Isaacsim</h4>
+      <div class="video-container">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
+          title="Spot robot navigation"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- Video 3 -->
+    <div class="video-item">
+      <h4>Demo: object point cloud from segmentation</h4>
+      <div class="video-container">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
+          title="Point cloud demo"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy">
+        </iframe>
+      </div>
+    </div>
+  </div>
 </li>
 
   <li>
@@ -308,27 +298,22 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 <style>
-/* Video Grid Layout */
 .video-row {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  margin: 20px 0;
   justify-content: center;
+  margin: 20px 0;
 }
 
-/* Each Video Item */
 .video-item {
   flex: 1 1 300px;
-  max-width: 400px;
-  display: flex;
-  flex-direction: column;
+  max-width: 420px;
   text-align: center;
 }
 
-/* Title above video */
 .video-item h4 {
-  margin: 0 0 8px 0 !important;
+  margin: 0 0 10px 0 !important;
   padding: 0;
   font-size: 0.95em;
   font-weight: 600;
@@ -336,29 +321,23 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   line-height: 1.3;
 }
 
-/* 16:9 Responsive Container */
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 56.25%; /* 16:9 */
   background: #000;
-  border-radius: 8px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.video-container:hover {
-  transform: scale(1.02);
-}
-
-/* iframe fills container perfectly */
 .video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0 !important;
+  display: block !important;
 }
 </style>
