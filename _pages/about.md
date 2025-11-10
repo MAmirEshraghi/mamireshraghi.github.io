@@ -301,21 +301,26 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 <style>
-/* --- NEW --- This creates the row layout --- */
+/* --- This creates the row layout --- */
 .video-row {
   display: flex;
   flex-wrap: wrap; /* This lets videos stack on small screens */
   gap: 15px;       /* This adds space between the videos */
 }
 
-/* --- NEW --- This styles each video item in the row --- */
+/* --- This styles each video item in the row --- */
 .video-item {
   flex: 1;            
-  min-width: 100px;   /* This controls the minimum size */
-  text-align: center; /* This centers your video titles */
+  min-width: 280px;   /* You can change this number */
+  text-align: center; 
+  
+  /* --- ADD THESE 3 LINES TO FIX THE GAP --- */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
-/* --- This is your existing code --- */
+/* --- This is your existing code for responsive videos --- */
 .video-container {
   position: relative;
   overflow: hidden;
@@ -331,5 +336,4 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   height: 100%;
 }
 </style>
-
 
