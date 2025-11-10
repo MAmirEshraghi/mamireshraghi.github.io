@@ -264,7 +264,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Ph.D.</b>, Oregon State University    
       <br />
     <font size="3">
-
     </font> 
     <br /> 
     </li>
