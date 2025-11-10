@@ -355,7 +355,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   }
   
   .video-container {
-    padding-top: 133.33%; /* Standard 16:9 on mobile */
+    padding-top: 233.33%; /* Standard 16:9 on mobile */
   }
 }
 </style>
