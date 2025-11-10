@@ -25,7 +25,16 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
       <br/>
       <img src="/assets/images/apple2.gif" alt="img" style="max-width:400px;" />
-      </li>
+      <div style="max-width: 400px; margin-top: 10px;"> <div class="video-container"> <iframe 
+            src="https://www.youtube.com/embed/SwY2Jn_4mQ0" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+          </iframe>
+        </div>
+      </div>    
+  </li>
 </ul>
 </li>
 
