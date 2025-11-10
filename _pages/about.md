@@ -303,6 +303,21 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 <style>
+/* --- NEW --- This creates the row layout --- */
+.video-row {
+  display: flex;
+  flex-wrap: wrap; /* This lets videos stack on small screens */
+  gap: 15px;       /* This adds space between the videos */
+}
+
+/* --- NEW --- This styles each video item in the row --- */
+.video-item {
+  flex: 1;            
+  min-width: 250px;   /* This controls the minimum size */
+  text-align: center; /* This centers your video titles */
+}
+
+/* --- This is your existing code --- */
 .video-container {
   position: relative;
   overflow: hidden;
