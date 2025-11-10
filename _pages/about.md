@@ -28,6 +28,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
   <li>
         <div class="video-row">
+  
           <div class="video-item">
             <h4>weekly update sample</h4>
             <div class="video-container">
@@ -40,6 +41,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
               </iframe>
             </div>
           </div>
+        
           <div class="video-item">
             <h4>Spot robot language guided navigation in Isaacsim</h4>
             <div class="video-container">
@@ -52,6 +54,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
               </iframe>
             </div>
           </div>
+        
           <div class="video-item">
             <h4>Demo: object point cloud from segmentation</h4>
             <div class="video-container">
@@ -64,6 +67,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
               </iframe>
             </div>
           </div>
+        
         </div>
       </li>
      
@@ -321,7 +325,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   justify-content: flex-start;
 }
 
-/* --- This is your existing code for responsive videos --- */
+/* --- This makes the videos responsive --- */
 .video-container {
   position: relative;
   overflow: hidden;
