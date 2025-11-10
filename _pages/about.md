@@ -81,7 +81,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <li>developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement.</li>
         <li>
           Links:
-      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=L9cdALAOvzs">[Demo(YouTube)]</a>
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=L9cdALAOvzs">[Demo (YouTube)]</a>
       <br/>
       <img src="/assets/armRobot1.gif" alt="arm" style="max-width:400px;" />
       </li>
@@ -92,7 +92,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <strong>[2024] Weed Detection and Mapping System</strong>
     <ul>      
       <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
-      <a href="https://github.com/MAmirEshraghi/Weed_Identification_Drone_imgs">[GitHub]</a>
+      <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
       <br/>
       <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
       <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
