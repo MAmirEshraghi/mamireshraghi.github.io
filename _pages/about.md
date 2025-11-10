@@ -19,50 +19,51 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
   <li>
   <div class="video-row">
-    <!-- Video 1 -->
-    <div class="video-item">
-      <h4>weekly update sample</h4>
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
-          title="weekly update sample"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          loading="lazy">
-        </iframe>
-      </div>
+  <!-- Video 1 -->
+  <div class="video-item">
+    <h4>weekly update sample</h4>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
+        title="weekly update sample"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy">
+      </iframe>
     </div>
+  </div>
 
-    <!-- Video 2 -->
-    <div class="video-item">
-      <h4>Spot robot language guided navigation in Isaacsim</h4>
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
-          title="Spot robot navigation"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          loading="lazy">
-        </iframe>
-      </div>
+  <!-- Video 2 -->
+  <div class="video-item">
+    <h4>Spot robot language guided navigation in Isaacsim</h4>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
+        title="Spot robot navigation"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy">
+      </iframe>
     </div>
+  </div>
 
-    <!-- Video 3 -->
-    <div class="video-item">
-      <h4>Demo: object point cloud from segmentation</h4>
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1"
-          title="Point cloud demo"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          loading="lazy">
-        </iframe>
-      </div>
+  <!-- Video 3 -->
+  <div class="video-item">
+    <h4>Demo: object point cloud from segmentation</h4>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
+        title="Point cloud demo"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy">
+      </iframe>
     </div>
+  </div>
+</div>
   </div>
 </li>
 
@@ -303,7 +304,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
-  margin: 20px 0;
+  margin: 25px 0;
 }
 
 .video-item {
@@ -313,9 +314,9 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 }
 
 .video-item h4 {
-  margin: 0 0 10px 0 !important;
+  margin: 0 0 12px 0 !important;
   padding: 0;
-  font-size: 0.95em;
+  font-size: 1em;
   font-weight: 600;
   color: #2c3e50;
   line-height: 1.3;
@@ -324,11 +325,16 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 */
+  padding-top: 56.25%;
   background: #000;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease;
+}
+
+.video-container:hover {
+  transform: translateY(-4px);
 }
 
 .video-container iframe {
@@ -338,6 +344,5 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   width: 100% !important;
   height: 100% !important;
   border: 0 !important;
-  display: block !important;
 }
 </style>
