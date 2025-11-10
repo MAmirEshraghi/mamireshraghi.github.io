@@ -20,7 +20,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   <li>
   <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots </strong> 
     <ul> <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li> 
-  
+   
   <li>Links:
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
       <br/>
@@ -66,7 +66,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
           </div>
         </div>
       </li>
-      
+     
 </ul>
 </li>
 
@@ -74,7 +74,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <strong>[2025] Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting </strong>
     <ul>
       <li>developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement.</li>
-       <li>
+        <li>
           Links:
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=L9cdALAOvzs">[Demo(YouTube)]</a>
       <br/>
@@ -108,7 +108,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </ul>
   </li>
   
- <li>
+  <li>
     <strong>[2021-22] AI-based Covid-19 Diagnosis Systems</strong>
     <ul>
       <li> <strong>(1) COV-MobNets framework:</strong> Combined lightweight CNN and ViT models for X-ray classification</li>
@@ -128,7 +128,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </ul>
   </li> 
 
- <li>
+  <li>
     <strong>2017-2019</strong>
     <ul>
       <li>
@@ -140,7 +140,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
       </li>   
     </ul>
-  </li> 
+  </li>  
   
 </ul>
 
@@ -263,13 +263,14 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Ph.D.</b>, Oregon State University    
       <br />
     <font size="3">
+
     </font> 
     <br /> 
     </li>
 </ul>
 
 <ul>
-    <li><b>M.Sc. in Digital Electronic Systems</b>, Iran University of Science and Technology   
+    <li><b>M.Sc. in Digital Electronic Systems</b>, Iran University of Science and Technology    
       <br />
     <font size="3">
     First-rank GPA, GPA= 18.78/20
@@ -310,11 +311,11 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 /* --- This styles each video item --- */
 .video-item {
-  flex: 1 1 45%;      /* Grow, shrink, and start at 45% width */
-  min-width: 300px;   /* Ensure they don't get too small on mobile */
+  flex: 1 1 45%;      /* This creates the 2-column layout */
+  min-width: 300px;   /* Prevents them from getting too small on mobile */
   text-align: center;
   
-  /* --- Fix for the gap --- */
+  /* --- This fixes the gap by aligning title and video to the top --- */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
