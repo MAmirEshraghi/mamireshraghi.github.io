@@ -313,7 +313,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 /* --- NEW --- This styles each video item in the row --- */
 .video-item {
   flex: 1;            
-  min-width: 150px;   /* This controls the minimum size */
+  min-width: 100px;   /* This controls the minimum size */
   text-align: center; /* This centers your video titles */
 }
 
