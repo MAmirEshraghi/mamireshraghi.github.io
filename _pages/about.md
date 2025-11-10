@@ -17,6 +17,15 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 ## Research and Projects
 <ul>
 
+<li>
+  <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots </strong> 
+    <ul> <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li> 
+   
+  <li>Links:
+      <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=SizqEv7UecE">[(Video) 3D object deduplication with SAM]</a>
+      <br/>
+  </li>
+  
   <li>
   <div class="video-row">
   <!-- Video 1 -->
@@ -359,3 +368,19 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   }
 }
 </style>
+
+<script>
+// Check video aspect ratio
+window.addEventListener('load', function() {
+  const iframes = document.querySelectorAll('.video-container iframe');
+  iframes.forEach((iframe, index) => {
+    iframe.addEventListener('load', function() {
+      console.log(`Video ${index + 1}:`, 
+        'Width:', iframe.offsetWidth, 
+        'Height:', iframe.offsetHeight,
+        'Ratio:', (iframe.offsetHeight / iframe.offsetWidth * 100).toFixed(2) + '%'
+      );
+    });
+  });
+});
+</script>
