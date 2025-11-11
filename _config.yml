@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Robin M.A. Eshraghi"
-  avatar           : "images/bio.JPG"
+  avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/master/images/bio.JPG"
   bio              : "Prospective PhD Student | MSc"
   location         : "Corvallis, OR, USA"
   employer         : 
