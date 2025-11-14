@@ -65,12 +65,15 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   </div>
 </li>
 </ul>
+</li>
 
-<ul>
   <li>
     <strong>[2025] Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting </strong>
     <ul>
-      <li>developed a simulation-based framework for planning and executing collision-free trajectories for UR5 arm to perform apple harvesting. The system used ROS, PyBullet and RRT-based algorithms with complexity of collosion check and visibility check for natural arm movement.</li>
+    <li>Developed a simulation-based framework for planning and executing collision-free trajectories for a UR5 robotic arm to perform autonomous apple harvesting.</li>
+    <li>uilt RRT/RRT-Connect motion-planning modules with collision checking, reachability analysis, and visibility constraints to ensure natural and efficient arm movement. Integrated the full pipeline in ROS and PyBullet, including environment setup, kinematics functions, and testing routines.</li>
+    <li>Achieved smooth, reliable trajectory generation in simulation, enabling reproducible experiments for agricultural robotic manipulation and future real-world deployment.</li>
+      <li>Kekwords: Path Planning, RRT/RRT-Connect, Trajectory Generation, Collision Checking, UR5 Manipulator, Kinematics, PyBullet, ROS/ROS2, Linux, Python, Systematic Debugging.</li>
         <li>
           Links:
       <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a> <a href="https://www.youtube.com/watch?v=L9cdALAOvzs">[Demo (YouTube)]</a>
