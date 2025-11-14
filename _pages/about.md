@@ -14,7 +14,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 
-## Research and Projects
+## Research and Projects (selected)
 <ul>
 
 <li>
@@ -63,8 +63,8 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       </iframe>
     </div>
   </div>
-</li>
-</ul>
+  </li>
+  </ul>
 </li>
 
   <li>
@@ -83,18 +83,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       </ul>
   </li>
   
-  <li>
-    <strong>[2024] Weed Detection and Mapping System</strong>
-    <ul>      
-      <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
-      <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
-      <br/>
-      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
-      <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
-      </li>
-    </ul>
-  </li>
-
 <li>
     <strong>[2023] AI-based Leukemia Diagnosis Mobile Application </strong>
     <ul>
@@ -107,44 +95,9 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       </li>
     </ul>
   </li>
+
+
   
-  <li>
-    <strong>[2021-22] AI-based Covid-19 Diagnosis Systems</strong>
-    <ul>
-      <li> <strong>(1) COV-MobNets framework:</strong> Combined lightweight CNN and ViT models for X-ray classification</li>
-      <li>
-      Links:
-      <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper] </a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
-      <br/>
-      <img src="/assets/images/COV06.png" alt="cov" style="max-width:250px;" />      
-      </li>
-      <li> <strong>(2) Dual-phase CNN-based framework:</strong> Modified ResNet and DenseNet models. Utilized image augmentations </li>
-      <li>
-      Links:  
-      <a href="https://doi.org/10.1155/2022/4838009"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
-      <br/>
-      <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:250px;" />      
-      </li>
-    </ul>
-  </li> 
-
-  <li>
-    <strong>2017-2019</strong>
-    <ul>
-      <li>
-      Advanced Line-Following Robot 
-      <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
-      <br/>
-      <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:250px;" />      
-      <img src="/assets/images/R02.jpg" alt="R2" style="max-width:250px;" />
-      <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
-      </li>   
-    </ul>
-  </li>  
-  
-</ul>
-
-
 ## Publications
 <ul>
     <li>COV-MobNets: A Mobile Networks Ensemble Model for Diagnosis of COVID-19 based on Chest X-ray Images
@@ -207,15 +160,15 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </li>
 </ul>
 
-## Academic Experiences
+## Professional Experiences
 
 
 <ul>
     <li><b>Graduate Research Assistant</b>,  Oregon State University (OSU), 
     <br />
     <font size="3">
-      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL), (Prof. Alan Fern) |
-      Spot Robot Perception System: as an AI Software Developer, contribute to a real-time scene understanding for the Spot robot to enable language-guided navigation
+      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
+      Spot Robot Perception System
     </font> 
     <br /> 
     </li>
@@ -225,8 +178,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Project Internship</b>,  Oregon State University (OSU), 
     <br />
     <font size="3">
-      Robotics Lab (Prof. Cindy Grimm) |
-      Apple-Picking Simulation: Contributed to the simulation development of apple trees, implemented RRT path planning with integration of camera check on Ur5 to generate collision-free trajectories to enable apple approaching by training RL agent within behavioral cloning.
+      Robotics Lab | Apple-Picking Simulation
     </font> 
     <br /> 
     </li>
@@ -236,8 +188,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
     <br />
     <font size="3">
-      Machine Vision Lab, (Dr. Baradaran Shahriar Shokouhi) |
-      Developed AI-based Covid-19 Detection Systems, resulting in one publication.
+      Machine Vision Lab | Developed AI-based Covid-19 Detection Systems, resulting in one publication.
     </font> 
     <br /> 
     </li>
@@ -246,7 +197,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), 
     <br />
     <font size="3">
-      Hematology Research Group, (Dr. Mustafa Ghaderzadeh) |
+      Hematology Research Group |
       Developed Leukemia Diagnosis AI-based Mobile Application, resulting in one publication, oral presentation, and a proposal. 
     </font> 
     <br /> 
@@ -256,7 +207,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), Iran      
     <br />
     <font size="3">
-      Radiology Research Group, (Dr. Mustafa Ghaderzadeh) |
+      Radiology Research Group |
       Developed AI-based Covid-19 Diagnosis Systems, resulting in one publication.
     </font> 
     <br /> 
@@ -280,7 +231,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <li><b>M.Sc. in Digital Electronic Systems</b>, University of Science and Technology (IUST)
       <br />
     <font size="3">
-    First-rank GPA, GPA= 18.78/20
+    First-rank GPA
     </font> 
     <br /> 
     </li>
@@ -302,6 +253,59 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <br /> 
     </li>
 </ul>
+
+## Other Research and Projects:
+
+<ul>
+<li>
+    <strong>[2024] Weed Detection and Mapping System</strong>
+    <ul>      
+      <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
+      <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
+      <br/>
+      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
+      <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>[2021-22] AI-based Covid-19 Diagnosis Systems</strong>
+    <ul>
+      <li> <strong>(1) COV-MobNets framework:</strong> Combined lightweight CNN and ViT models for X-ray classification</li>
+      <li>
+      Links:
+      <a href="https://doi.org/10.1186/s12880-023-01039-w"> [Paper] </a><a href="https://github.com/MAmirEshraghi/COV-MobNets">[GitHub] </a><a href="https://www.kaggle.com/code/mohammadamireshraghi/cov-mobnets-for-diagnosis-covid-19-based-on-x-ray">[Kaggle] </a>
+      <br/>
+      <img src="/assets/images/COV06.png" alt="cov" style="max-width:250px;" />      
+      </li>
+      <li> <strong>(2) Dual-phase CNN-based framework:</strong> Modified ResNet and DenseNet models. Utilized image augmentations </li>
+      <li>
+      Links:  
+      <a href="https://doi.org/10.1155/2022/4838009"> [Paper] </a><a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework"> [GitHub] </a>  <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset"> [Data_Kaggle] </a> 
+      <br/>
+      <img src="/assets/images/O_COV2.png" alt="cov1" style="max-width:250px;" />      
+      </li>
+    </ul>
+  </li> 
+
+  <li>
+    <strong>2017-2019</strong>
+    <ul>
+      <li>
+      Advanced Line-Following Robot 
+      <a href="https://github.com/MAmirEshraghi/Line_Follower_Robot"> [GitHub] </a>
+      <br/>
+      <img src="/assets/images/rob1.jpg" alt="R1" style="max-width:250px;" />      
+      <img src="/assets/images/R02.jpg" alt="R2" style="max-width:250px;" />
+      <img src="/assets/images/R04.gif" alt="R3" style="max-width:100px;" />
+      </li>   
+    </ul>
+  </li>  
+  
+</ul>
+
+
 
 ## Gallery 
 
