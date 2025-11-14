@@ -19,18 +19,38 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 <li>
   <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots </strong> 
-    <ul> <li>The DARPA-funded project that enables the Spot robot to perceive and understand its surroundings by detecting, labeling, and localizing household objects in 3D space. It builds a semantic world map that provides detailed object information and 3D positions, supporting natural-language queries that enable higher-level navigation and interaction.</li> 
+    <ul> 
+      <li>Embodied AI Software Engineer (GRA): I am working on a DARPA-funded project advancing 3D semantic object grounding for vision-language-aware robots.</li> 
+        <li>I develop and integrate AI modules that enable the Spot robot to detect, label, and localize household objects in 3D space, building a semantic world map that supports natural-language queries and intelligent navigation.</li> 
+        <li>My role includes designing vision-language-planning pipelines, maintaining simulation environments, and conducting testing and debugging to drive milestone-based research progress.</li> 
+
    
-  <li>Links:
+  <li>Links (only privious single modlues and tests):
       <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a> 
       <br/>
   </li>
   
   <li>
   <div class="video-row">
+
+<!-- Video 2 -->
+  <div class="video-item">
+    <h4>(08/25/2025) Demo: Spot robot perception and language guided navigation in Isaacsim</h4>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
+        title="Spot robot navigation"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy">
+      </iframe>
+    </div>
+  </div>
+    
   <!-- Video 1 -->
   <div class="video-item">
-    <h4>weekly update sample</h4>
+    <h4>5-Minute Project Update (my weekly report sample)</h4>
     <div class="video-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
@@ -43,36 +63,8 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </div>
   </div>
 
-  <!-- Video 2 -->
-  <div class="video-item">
-    <h4>Spot robot language guided navigation in Isaacsim</h4>
-    <div class="video-container">
-      <iframe
-        src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
-        title="Spot robot navigation"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        loading="lazy">
-      </iframe>
-    </div>
-  </div>
+  
 
-  <!-- Video 3 -->
-  <div class="video-item">
-    <h4>Demo: object point cloud from segmentation</h4>
-    <div class="video-container">
-      <iframe
-        src="https://www.youtube-nocookie.com/embed/SizqEv7UecE?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
-        title="Point cloud demo"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        loading="lazy">
-      </iframe>
-    </div>
-  </div>
-</div>
 </li>
 
   <li>
