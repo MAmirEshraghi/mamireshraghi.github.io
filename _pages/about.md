@@ -25,7 +25,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
         <li>My role includes designing vision-language-planning pipelines, maintaining simulation environments, and conducting testing and debugging to drive milestone-based research progress.</li> 
 
    
-  <li>Links (only privious single modlues and tests):
+  <li>Links (only privious single modlues and tests, not current):
       <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a> 
       <br/>
   </li>
@@ -50,7 +50,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     
   <!-- Video 1 -->
   <div class="video-item">
-    <h4>5-Minute Project Update (my weekly report sample)</h4>
+    <h4>(10/30/2025) 5-Minute Project Update (the weekly report sample)</h4>
     <div class="video-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
@@ -62,9 +62,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       </iframe>
     </div>
   </div>
-
-  
-
 </li>
 
   <li>
