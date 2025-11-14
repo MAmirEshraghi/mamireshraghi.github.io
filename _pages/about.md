@@ -23,9 +23,10 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <li>Embodied AI Software Engineer (GRA): I am working on a DARPA-funded project advancing 3D semantic object grounding for vision-language-aware robots.</li> 
         <li>I develop and integrate AI modules that enable the Spot robot to detect, label, and localize household objects in 3D space, building a semantic world map that supports natural-language queries and intelligent navigation.</li> 
         <li>My role includes designing vision-language-planning pipelines, maintaining simulation environments, and conducting testing and debugging to drive milestone-based research progress.</li> 
+        <li>Keywords: Embodied AI, Vision-Language Models (VLMs), 3D Semantic Object Grounding, Multimodal Perception, World Modeling, ROS2, Isaac Sim, Habitat-Sim, Python, Docker, Git, AWS, Linux, systematic problem-solving.</li> 
 
    
-  <li>Links (only privious single modlues and tests, not current):
+  <li>Links (only privious API modlues and tests):
       <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a> 
       <br/>
   </li>
@@ -50,7 +51,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     
   <!-- Video 1 -->
   <div class="video-item">
-    <h4>(10/30/2025) 5-Minute Project Update (the weekly report sample)</h4>
+    <h4>(10/30/2025) 5-Minute Project Update in Habitat (the weekly report sample)</h4>
     <div class="video-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
@@ -63,7 +64,9 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </div>
   </div>
 </li>
+</ul>
 
+<ul>
   <li>
     <strong>[2025] Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting </strong>
     <ul>
