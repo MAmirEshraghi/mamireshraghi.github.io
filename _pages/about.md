@@ -92,7 +92,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
         <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
         <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class">[Dataset]</a>
         <br/>
-        <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:600px;" />
+        <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:800px;" />
         <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:500px;" />
       </li>
     </ul>
