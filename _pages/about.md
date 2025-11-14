@@ -141,6 +141,38 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 </ul>
 
+
+## Education
+
+
+<ul>
+    <li><b>M.Sc. in Artificial Intelligence</b>, Oregon State University (OSU), OR, USA
+      <br />
+    <font size="3">
+    Graduate Research Assistant
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>M.Sc. in Digital Electronic Systems</b>, University of Science and Technology (IUST)
+      <br />
+    <font size="3">
+    First-rank GPA Scholarship
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>B.E | A.E. in Electronic Engineering</b>, Technical and Vocational University (TVU)
+    </li>
+</ul>
+<ul>
+    <li><b>Diploma in Electronics </b>, Technical and Vocational School
+    </li>
+</ul>
 ## Professional Experiences
 
 <ul>
@@ -194,45 +226,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </li>
 </ul>
 
-## Education
-
-
-<ul>
-    <li><b>M.Sc. in Artificial Intelligence</b>, Oregon State University  
-      <br />
-    <font size="3">
-    Graduate Research Assistant
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>M.Sc. in Digital Electronic Systems</b>, University of Science and Technology (IUST)
-      <br />
-    <font size="3">
-    First-rank GPA
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>B.E | A.E. in Electronic Engineering</b>, Technical and Vocational University
-      <br />
-    <font size="3">
-    </font> 
-    <br /> 
-    </li>
-</ul>
-<ul>
-    <li><b>Diploma in Electronics </b>, Technical and Vocational School
-      <br />
-    <font size="3">
-    </font> 
-    <br /> 
-    </li>
-</ul>
 
 ## Other Research and Projects:
 
