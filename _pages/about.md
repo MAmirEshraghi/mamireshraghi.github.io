@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Mohammad Amir, and I go by <b>Robin</b> in daily life! 
 
-I'm an Engineer and Researcher with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligence autonomous machines that sense, adapt, and connect to advance embodied intelligence, drawing inspiration from natural intelligence in humans and animals.
+I'm an Engineer and Researcher with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligent autonomous machines that sense, adapt, and connect to advance embodied intelligence, drawing inspiration from natural intelligence in humans and animals.
 
 
 ## Research and Projects (selected)
@@ -45,8 +45,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
           </div>
           <!-- Video 2 -->
           <div class="video-item">
-            <h4>5-Minute Project Update in Habitat (Weekly Report Sample) (10/30/2025)</h4>
-            <div class="video-container">
+            <h4>Weekly Report: LLM search engine for grounded objects (10/30/2025)</h4>
               <iframe
                 src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
                 title="weekly update sample"
@@ -54,7 +53,6 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
             </div>
-          </div>
         </div>
       </li>
     </ul>
