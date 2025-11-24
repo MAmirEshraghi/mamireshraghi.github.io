@@ -24,28 +24,24 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
       <li>Develop AI modules enabling the Spot robot to detect, label, and localize household objects in 3D space to build a semantic world map for language-guided navigation.</li>
       <li>Design multimodal pipelines, maintain simulation environments, and conduct testing/debugging for milestone-based research progress.</li>
       <li>Keywords: Embodied AI, VLMs, 3D Object Grounding, Multimodal Perception, World Modeling, ROS2, Isaac Sim, Habitat-Sim, Python, Docker, Git, AWS, Linux.</li>
-
       <li>
         Links (previous API modules and tests):
         <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a>
       </li>
-
       <li>
         <div class="video-row">
-
           <!-- Video 1 -->
           <div class="video-item">
             <h4>Demo: Spot robot perception & language-guided navigation in IsaacSim (08/25/2025)</h4>
             <div class="video-container">
               <iframe
-                src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
-                title="Spot robot navigation"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen loading="lazy"></iframe>
+          src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&controls=1"
+          title="Spot robot navigation"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen loading="lazy">
+        </iframe>
             </div>
           </div>
-
           <!-- Video 2 -->
           <div class="video-item">
             <h4>5-Minute Project Update in Habitat (Weekly Report Sample) (10/30/2025)</h4>
@@ -58,12 +54,10 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
                 allowfullscreen loading="lazy"></iframe>
             </div>
           </div>
-
         </div>
       </li>
     </ul>
   </li>
-
   <!-- Project 2 -->
   <li>
     <strong>[2025] Path Planning and Trajectory Generation for Robotic Arm in Apple Harvesting</strong>
@@ -312,11 +306,11 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 .video-container {
   position: relative;
   width: 100%;
-  padding-top: 25%; /* Much shorter - wide landscape format */
+  padding-bottom: 56.25%; /* Standard 16:9 ratio */
   background: #000;
-  border-radius: 4px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.12);
 }
 
 .video-container iframe {
