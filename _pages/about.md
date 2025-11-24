@@ -54,7 +54,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
                 allowfullscreen loading="lazy"></iframe>
             </div>
         </div>
-        <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:800px;" />
+        <img src="/assets/images/objectmapping.jpg" alt="L1" style="max-width:500px;" />
       </li>
     </ul>
   </li>
