@@ -32,7 +32,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
         <div class="video-row">
           <!-- Video 1 -->
           <div class="video-item">
-            <h4>Demo: Spot robot perception & language-guided navigation in IsaacSim (08/25/2025)</h4>
+            <h4>(08/25/2025) Demo: Spot robot perception & language-guided navigation in IsaacSim</h4>
               <iframe
                 width="560"
                 height="315"
@@ -45,7 +45,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
           </div>
           <!-- Video 2 -->
           <div class="video-item">
-            <h4>Weekly Report: LLM search engine for grounded objects (10/30/2025)</h4>
+            <h4>(10/30/2025) Weekly Report: LLM search engine for grounded objects</h4>
               <iframe
                 src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
                 title="weekly update sample"
