@@ -33,14 +33,15 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
           <!-- Video 1 -->
           <div class="video-item">
             <h4>Demo: Spot robot perception & language-guided navigation in IsaacSim (08/25/2025)</h4>
-            <div class="video-container">
               <iframe
+                width="560"
+                height="315"
           src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&controls=1"
           title="Spot robot navigation"
+                frameboard="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen loading="lazy">
         </iframe>
-            </div>
           </div>
           <!-- Video 2 -->
           <div class="video-item">
