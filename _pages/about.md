@@ -275,7 +275,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
 
 
 ## Gallery 
-
+<img src="/files/profile2.jpg" alt="L1" style="max-width:300px;" /> 
 <img src="/assets/images/m11.jpg" alt="L1" style="max-width:300px;" /> 
 
 <style>
