@@ -58,9 +58,10 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Graduate Research Assistant</b>, Oregon State University (OSU), 
     <br />
     <font size="3">
-      - <b>Embodied AI Engineer:</b> Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
+      - <b>Embodied AI Engineer:</b> Dynamic Robotics and Artificial intelligence Lab (DRAIL) |
       <i>Spot Robot Perception System</i>
     </font>
+    <br />
     <font size="3">      
       - <b>Computer Vision Engineer:</b> Percision Agriculture Lab | <i>Weed Detection System</i>
     </font> 
@@ -72,7 +73,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Project Intern</b>,  Oregon State University (OSU), 
     <br />
     <font size="3">
-      - Robotics Lab | Robotic Software Engineer | <i>Path Planning in Harvasting Agricultre Robot UR5</i>
+      - <b>Robotic Software Engineer:</b> Agricultural Robotics Lab | <i>Path Planning in Harvasting Agricultre Robot UR5</i>
     </font> 
     <br /> 
     </li>
@@ -82,7 +83,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
     <br />
     <font size="3">
-      - Machine Vision Lab | <i>Developed AI-based Medical Detection Systems</i>
+      - <b>Computer Vision Engineer:</b> Machine Vision Lab | <i>AI-based Medical Detection Systems</i>
     </font> 
     <br /> 
     </li>
@@ -91,10 +92,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Research Collaborator</b>,  Beheshti University of Medical Science, 
     <br />
     <font size="3">
-      Hematology Research Group,
-      Radiology Research Group,
-
-      Developed Diagnosis AI-based Mobile Application, using compuetr vision 
+      <b>- Computer Vision Software Engineer:</b> Hematology Research Group and Radiology Research Group | <i>AI-based Mobile Application in Medical Challenges</i>
     </font> 
     <br /> 
     </li>
@@ -194,7 +192,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
   </li> 
 
   <li>
-    <strong>2017-2019</strong>
+    <strong>Fun</strong>
     <ul>
       <li>
       Advanced Line-Following Robot 
