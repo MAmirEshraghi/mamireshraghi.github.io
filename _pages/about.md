@@ -16,7 +16,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
 ## Education
 
 <ul>
-    <li><b>Ph.D. Student</b>, USA
+    <li><b>Ph.D. Student</b>,
     </li>
 </ul>
 
@@ -109,33 +109,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
         <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a>
       </li> -->
       <li>
-        <!-- <div class="video-row">
-          <!-- Video 1 -->
-          <div class="video-item">
-            <h4>(08/25/2025) Demo: Spot robot perception & language-guided navigation in IsaacSim</h4>
-              <iframe
-                width="560"
-                height="315"
-          src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&controls=1"
-          title="Spot robot navigation"
-                frameboard="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen loading="lazy">
-        </iframe>
-          </div>
-          <!-- Video 2 -->
-          <div class="video-item">
-            <h4>(10/30/2025) Weekly Report: LLM search engine for grounded objects</h4>
-              <iframe
-                src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
-                title="weekly update sample"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen loading="lazy"></iframe>
-            </div>
-        </div> -->
         <img src="/images/d3.png" alt="L1" style="max-width:650px;" />
-        <img src="/assets/images/objectmapping.jpg" alt="L1" style="max-width:650px;" />
       </li>
     </ul>
   </li>
@@ -158,12 +132,12 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
 
   <!-- Project 2-2 -->
   <li>
-    <strong>[2024-Peresent] Weed Detection System in Percision Agriculture</strong>
+    <strong>[2024-2026] Weed Detection System in Percision Agriculture</strong>
     <ul>
       <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
       <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
       <br/>
-      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
+      <img src="/assets/images/W1.png" alt="w1" style="max-width:600px;" />
     </ul>
   </li>
 
@@ -178,20 +152,16 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
         <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
         <a href="https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class">[Dataset]</a>
         <br/>
-        <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:800px;" />
-        <img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:500px;" />
+        <img src="/assets/images/LeukemiaClassificatio1.jpg" alt="L1" style="max-width:700px;" />
+        
       </li>
     </ul>
   </li>
 
 </ul>
-<!--  -->
 
 
-
-
-
-## Other Research and Projects:
+## Others:
 
 <ul>
 

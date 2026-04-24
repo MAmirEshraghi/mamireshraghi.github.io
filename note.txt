@@ -1,0 +1,75 @@
+
+## Publications
+<ul>
+
+  <li>
+    COV-MobNets: A Mobile Networks Ensemble Model for Diagnosis of COVID-19  
+    <br/>
+    <font size="3"><b>MA. Eshraghi</b>, A. Ayatollahi, SB. Shokouhi</font>
+    <br/>
+    <font size="2">
+      <a href="https://bmcmedimaging.biomedcentral.com/">[BMC Medical Imaging, 2023]</a>
+      <a href="https://doi.org/10.1186/s12880-023-01039-w">[doi]</a>
+      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
+    </font>
+  </li>
+
+  <li>
+    A Mobile Application based on Efficient Lightweight CNN Model for Classification of B-ALL  
+    <br/>
+    <font size="3">(A. Hosseini, <b>MA. Eshraghi</b>, T. Taami, H. Sadeghsalehi, Z. Hoseinzadeh, M. Rafiee, M. Ghaderzadeh)</font>
+    <br/>
+    <font size="2">
+      <a href="https://bmcmedimaging.biomedcentral.com/">[Informatics in Medicine Unlocked, 2023]</a>
+      <a href="https://doi.org/10.1016/j.imu.2023.101244">[doi]</a>
+      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
+    </font>
+  </li>
+
+  <li>
+    Efficient Framework for Detection of COVID-19 Omicron and Delta Variants  
+    <br/>
+    <font size="3">(M. Ghaderzadeh, <b>MA. Eshraghi</b>, F. Asadi, A. Hosseini, R. Jafari, D. Bashash, H. Abolghasemi)</font>
+    <br/>
+    <font size="2">
+      <a href="https://bmcmedimaging.biomedcentral.com/">[Computational and Mathematical Methods in Medicine, 2022]</a>
+      <a href="https://doi.org/10.1155/2022/4838009">[doi]</a>
+      <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework">[GitHub]</a>
+    </font>
+  </li>
+
+</ul>
+
+
+<!-- <div class="video-row">
+          <!-- Video 1 -->
+          <div class="video-item">
+            <h4>(08/25/2025) Demo: Spot robot perception & language-guided navigation in IsaacSim</h4>
+              <iframe
+                width="560"
+                height="315"
+          src="https://www.youtube-nocookie.com/embed/DUtXddkQi6I?rel=0&modestbranding=1&controls=1"
+          title="Spot robot navigation"
+                frameboard="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen loading="lazy">
+        </iframe>
+          </div>
+          <!-- Video 2 -->
+          <div class="video-item">
+            <h4>(10/30/2025) Weekly Report: LLM search engine for grounded objects</h4>
+              <iframe
+                src="https://www.youtube-nocookie.com/embed/SwY2Jn_4mQ0?rel=0&modestbranding=1&iv_load_policy=3&fs=1&cc_load_policy=0&playsinline=1&autohide=1&controls=1&enablejsapi=1&origin=https://robin-eshraghi.github.io"
+                title="weekly update sample"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
+            </div>
+        </div> -->
+
+
+
+                <img src="/assets/images/objectmapping.jpg" alt="L1" style="max-width:650px;" />
+
+
+<img src="/assets/images/LeukemiaClassificatio2.png" alt="L2" style="max-width:500px;" />
