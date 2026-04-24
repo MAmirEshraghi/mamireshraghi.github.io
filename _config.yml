@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Robin Eshraghi"
 title_separator          : "-"
 name                     : &name "Mohammad Amir (Robin) Eshraghi"
-description              : &description "MSc. | Prospective PhD Student"
+description              : &description "MEng | MSc | PhD Student"
 url                      : https://MAmirEshraghi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MAmirEshraghi/mamireshraghi.github.io" 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Robin M.A. Eshraghi"
   avatar           : "https://raw.githubusercontent.com/MAmirEshraghi/mamireshraghi.github.io/refs/heads/master/images/bio.JPG"
-  bio              : "Prospective PhD Student | MSc"
+  bio              : "PhD Student | M.Sc | M.Eng"
   location         : "Corvallis, OR, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=HaqcgSUAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   github           : "MAmirEshraghi"
   google_plus      :
   keybase          :
-  instagram        : "Robben.esh"
+  instagram        : 
   lastfm           :
   linkedin         : "mohammadamir-eshraghi98"
   orcid            : 

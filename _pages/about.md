@@ -10,26 +10,106 @@ redirect_from:
 
 I'm Mohammad Amir, and I go by <b>Robin</b> in daily life! 
 
-I'm an Engineer and Researcher with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligent autonomous machines that sense, adapt, and connect to advance embodied intelligence, drawing inspiration from natural intelligence in humans and animals.
+I'm an Researcher and Engineer with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligent autonomous machines that sense, adapt, and connect to advance embodied intelligence in augricultural, drawing inspiration from natural intelligence in humans and animals.
 
 
-## Research and Projects (selected)
+## Education
+
+<ul>
+    <li><b>Ph.D. Student</b>, USA
+    </li>
+</ul>
+
+<ul>
+    <li><b>M.Eng. </b>in<b> Artificial Intelligence</b>, Oregon State University (OSU), OR, USA
+      <br />
+    <font size="3">
+    Graduate Research Assistant
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>M.Sc. </b>in<b> Digital Electronic Systems</b>, University of Science and Technology (IUST)
+      <br />
+    <font size="3">
+    First-rank GPA Scholarship
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>B.E | A.E. </b>in<b> Electronic Engineering</b>, Technical and Vocational University
+    </li>
+</ul>
+
+
+
+## Experiences
+
+<ul>
+    <li><b>Graduate Research Assistant</b>, Oregon State University (OSU), 
+    <br />
+    <font size="3">
+      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
+      Spot Robot Perception System
+      Percision Agriculture Lab | Weed Detection System
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>Project Intern</b>,  Oregon State University (OSU), 
+    <br />
+    <font size="3">
+      Robotics Lab | Path Planning in Harvasting Agricultre UR5 Robot
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+<ul>
+    <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
+    <br />
+    <font size="3">
+      Machine Vision Lab | Developed AI-based Medical Detection Systems
+    </font> 
+    <br /> 
+    </li>
+</ul>
+<ul>
+    <li><b>Research Collaborator</b>,  Beheshti University of Medical Science, 
+    <br />
+    <font size="3">
+      Hematology Research Group,
+      Radiology Research Group,
+
+      Developed Diagnosis AI-based Mobile Application, using compuetr vision 
+    </font> 
+    <br /> 
+    </li>
+</ul>
+
+
+## Research and Projects
 <ul>
 
   <!-- Project 1 -->
   <li>
-    <strong>[2025-26] 3D Semantic Object Grounding for Vision-Language-Aware Robots</strong>
+    <strong>[2026] Object Grounding in Spot</strong>
     <ul>
-      <li>Embodied AI Software Engineer (GRA): Working on a DARPA-funded project advancing 3D semantic object grounding for vision-language-aware robots.</li>
-      <li>Develop AI modules enabling the Spot robot to detect, label, and localize household objects in 3D space to build a semantic world map for language-guided navigation.</li>
-      <li>Design multimodal pipelines, maintain simulation environments, and conduct testing/debugging for milestone-based research progress.</li>
-      <li>Keywords: Embodied AI, VLMs, 3D Object Grounding, Multimodal Perception, World Modeling, ROS2, Isaac Sim, Habitat-Sim, Python, Docker, Git, AWS, Linux.</li>
-      <li>
+      <li>Developed AI modules enabling the Spot to detect, label, and localize household objects in 3D space to build a semantic world map for language-guided navigation.</li>
+      <li>Designed multimodal pipelines, maintain simulation environments, and conduct testing/debugging for milestone-based research progress.</li>
+      <li>Usecase in Agriculture Automations and sensing</li>
+      <!-- <li>
         Links (previous API modules and tests):
         <a href="https://github.com/MAmirEshraghi/perception_tiamat_drail">[GitHub]</a>
-      </li>
+      </li> -->
       <li>
-        <div class="video-row">
+        <!-- <div class="video-row">
           <!-- Video 1 -->
           <div class="video-item">
             <h4>(08/25/2025) Demo: Spot robot perception & language-guided navigation in IsaacSim</h4>
@@ -53,7 +133,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
             </div>
-        </div>
+        </div> -->
         <img src="/images/d3.png" alt="L1" style="max-width:650px;" />
         <img src="/assets/images/objectmapping.jpg" alt="L1" style="max-width:650px;" />
       </li>
@@ -65,7 +145,7 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     <ul>
       <li>Developed a simulation-based framework for planning and executing collision-free trajectories for a UR5 robotic arm for autonomous apple harvesting.</li>
       <li>Built RRT/RRT-Connect modules with collision checking, reachability analysis, and visibility constraints. Integrated the full pipeline in ROS and PyBullet with environment setup, kinematics, and testing routines. Enabled smooth trajectory generation for reproducible experiments in agricultural robotic manipulation.</li>
-      <li>Keywords: Path Planning, RRT/RRT-Connect, Trajectory Generation, Collision Checking, UR5 Manipulator, Kinematics, PyBullet, ROS/ROS2, Linux, Python.</li>
+      
       <li>
         Links:
         <a href="https://github.com/OSUrobotics/pybullet-tree-sim/tree/feature/apple_path_planning_robinEsh">[GitHub]</a>
@@ -76,9 +156,20 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
     </ul>
   </li>
 
+  <!-- Project 2-2 -->
+  <li>
+    <strong>[2024-Peresent] Weed Detection System in Percision Agriculture</strong>
+    <ul>
+      <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
+      <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
+      <br/>
+      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
+    </ul>
+  </li>
+
   <!-- Project 3 -->
   <li>
-    <strong>[2023] AI-based Leukemia Diagnosis Mobile Application</strong>
+    <strong>[2023] Blood Cell Mobile Application</strong>
     <ul>
       <li>Developed a smartphone-based AI system for detection and staging of leukemia from microscopic blood cell images.</li>
       <li>
@@ -94,148 +185,16 @@ I'm an Engineer and Researcher with a background in Artificial Intelligence, Rob
   </li>
 
 </ul>
-
-## Publications
-<ul>
-
-  <li>
-    COV-MobNets: A Mobile Networks Ensemble Model for Diagnosis of COVID-19  
-    <br/>
-    <font size="3"><b>MA. Eshraghi</b>, A. Ayatollahi, SB. Shokouhi</font>
-    <br/>
-    <font size="2">
-      <a href="https://bmcmedimaging.biomedcentral.com/">[BMC Medical Imaging, 2023]</a>
-      <a href="https://doi.org/10.1186/s12880-023-01039-w">[doi]</a>
-      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
-    </font>
-  </li>
-
-  <li>
-    A Mobile Application based on Efficient Lightweight CNN Model for Classification of B-ALL  
-    <br/>
-    <font size="3">(A. Hosseini, <b>MA. Eshraghi</b>, T. Taami, H. Sadeghsalehi, Z. Hoseinzadeh, M. Rafiee, M. Ghaderzadeh)</font>
-    <br/>
-    <font size="2">
-      <a href="https://bmcmedimaging.biomedcentral.com/">[Informatics in Medicine Unlocked, 2023]</a>
-      <a href="https://doi.org/10.1016/j.imu.2023.101244">[doi]</a>
-      <a href="https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL">[GitHub]</a>
-    </font>
-  </li>
-
-  <li>
-    Efficient Framework for Detection of COVID-19 Omicron and Delta Variants  
-    <br/>
-    <font size="3">(M. Ghaderzadeh, <b>MA. Eshraghi</b>, F. Asadi, A. Hosseini, R. Jafari, D. Bashash, H. Abolghasemi)</font>
-    <br/>
-    <font size="2">
-      <a href="https://bmcmedimaging.biomedcentral.com/">[Computational and Mathematical Methods in Medicine, 2022]</a>
-      <a href="https://doi.org/10.1155/2022/4838009">[doi]</a>
-      <a href="https://github.com/MAmirEshraghi/Deep_Covid19_Detection_Overall_framework">[GitHub]</a>
-    </font>
-  </li>
-
-</ul>
+<!--  -->
 
 
-## Education
 
-
-<ul>
-    <li><b>M.Sc. in Artificial Intelligence</b>, Oregon State University (OSU), OR, USA
-      <br />
-    <font size="3">
-    Graduate Research Assistant
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>M.Sc. in Digital Electronic Systems</b>, University of Science and Technology (IUST)
-      <br />
-    <font size="3">
-    First-rank GPA Scholarship
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>B.E | A.E. in Electronic Engineering</b>, Technical and Vocational University (TVU)
-    </li>
-</ul>
-<ul>
-    <li><b>Diploma in Electronics </b>, Technical and Vocational School
-    </li>
-</ul>
-## Professional Experiences
-
-<ul>
-    <li><b>Graduate Research Assistant</b>,  Oregon State University (OSU), 
-    <br />
-    <font size="3">
-      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
-      Spot Robot Perception System
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>Project Internship</b>,  Oregon State University (OSU), 
-    <br />
-    <font size="3">
-      Robotics Lab | Apple-Picking Simulation
-    </font> 
-    <br /> 
-    </li>
-</ul>
-
-<ul>
-    <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
-    <br />
-    <font size="3">
-      Machine Vision Lab | Developed AI-based Covid-19 Detection Systems, resulting in one publication.
-    </font> 
-    <br /> 
-    </li>
-</ul>
-<ul>
-    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), 
-    <br />
-    <font size="3">
-      Hematology Research Group |
-      Developed Leukemia Diagnosis AI-based Mobile Application, resulting in one publication, oral presentation, and a proposal. 
-    </font> 
-    <br /> 
-    </li>
-</ul>
-<ul>
-    <li><b>Research Collaborator</b>, Shahid Beheshti University of Medical Sciences (SBUMS), Iran      
-    <br />
-    <font size="3">
-      Radiology Research Group |
-      Developed AI-based Covid-19 Diagnosis Systems, resulting in one publication.
-    </font> 
-    <br /> 
-    </li>
-</ul>
 
 
 ## Other Research and Projects:
 
 <ul>
-<li>
-    <strong>[2024] Weed Detection and Mapping System</strong>
-    <ul>      
-      <li>Developed an object detection system processing high-resolution drone orthomosaics through a custom computer vision pipeline to detect weeds and generate GIS coordinates to support autonomous sprayer tractors to perform targeted herbicide application 
-      <a href="https://github.com/MAmirEshraghi/WeedID_YOLOs">[GitHub]</a>
-      <br/>
-      <img src="/assets/images/W1.png" alt="w1" style="max-width:300px;" />
-      <img src="/assets/images/w2.gif" alt="w2" style="max-width:200px;" />
-      </li>
-    </ul>
-  </li>
+
   
   <li>
     <strong>[2021-22] AI-based Covid-19 Diagnosis Systems</strong>
