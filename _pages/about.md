@@ -21,27 +21,32 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
 </ul>
 
 <ul>
-    <li><b>M.Eng. </b>in<b> Artificial Intelligence</b>, Oregon State University (OSU), OR, USA
+    <li><b>M.Eng. </b>in<b> Artificial Intelligence</b>
       <br />
     <font size="3">
-    Graduate Research Assistant
+    Oregon State University (OSU), OR, USA | Graduate Research Assistant
     </font> 
     <br /> 
     </li>
 </ul>
 
 <ul>
-    <li><b>M.Sc. </b>in<b> Digital Electronic Systems</b>, University of Science and Technology (IUST)
-      <br />
+    <li><b>M.Sc. </b>in<b> Digital Electronic Systems</b>
+    <br />
     <font size="3">
-    First-rank GPA Scholarship
+    University of Science and Technology (IUST) | First-rank GPA Scholarship
     </font> 
     <br /> 
     </li>
 </ul>
 
 <ul>
-    <li><b>B.E | A.E. </b>in<b> Electronic Engineering</b>, Technical and Vocational University
+    <li><b>B.E | A.E. </b>in<b> Electronic Engineering</b> 
+    <br />
+    <font size="3">
+    Technical and Vocational University
+    </font> 
+    <br /> 
     </li>
 </ul>
 
@@ -53,9 +58,9 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Graduate Research Assistant</b>, Oregon State University (OSU), 
     <br />
     <font size="3">
-      Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
-      Spot Robot Perception System
-      Percision Agriculture Lab | Weed Detection System
+      - Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) | Embodied AI Engineer |
+      <i>Spot Robot Perception System</i>
+      - Percision Agriculture Lab | Computer Vision Engineer | <i>Weed Detection System</i>
     </font> 
     <br /> 
     </li>
@@ -65,7 +70,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Project Intern</b>,  Oregon State University (OSU), 
     <br />
     <font size="3">
-      Robotics Lab | Path Planning in Harvasting Agricultre UR5 Robot
+      - Robotics Lab | Robotic Software Engineer | <i>Path Planning in Harvasting Agricultre Robot UR5</i>
     </font> 
     <br /> 
     </li>
@@ -75,7 +80,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Research Assistant</b>,  University of Science and Technology (IUST), 
     <br />
     <font size="3">
-      Machine Vision Lab | Developed AI-based Medical Detection Systems
+      - Machine Vision Lab | <i>Developed AI-based Medical Detection Systems</i>
     </font> 
     <br /> 
     </li>
