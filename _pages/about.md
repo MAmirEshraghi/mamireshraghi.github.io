@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Mohammad Amir, and I go by <b>Robin</b> in daily life! 
 
-I'm an Researcher and Engineer with a background in Artificial Intelligence, Robotics, and Electronics. I am currently interested in intelligent autonomous machines that sense, adapt, and connect to advance embodied intelligence in augricultural, drawing inspiration from natural intelligence in humans and animals.
+I'm an Researcher and Engineer with a background in Artificial Intelligence, Robotics, and Electronics. I'm currently interested in intelligent autonomous machines that sense and adapt to advance embodied intelligence in agriculture.
 
 
 ## Education
