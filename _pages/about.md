@@ -24,7 +24,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>M.Eng. </b>in<b> Artificial Intelligence</b>
       <br />
     <font size="3">
-    Oregon State University (OSU), OR, USA | Graduate Research Assistant
+    Oregon State University (OSU), OR, USA | <i>Graduate Research Assistant</i>
     </font> 
     <br /> 
     </li>
@@ -34,7 +34,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>M.Sc. </b>in<b> Digital Electronic Systems</b>
     <br />
     <font size="3">
-    University of Science and Technology (IUST) | First-rank GPA Scholarship
+    University of Science and Technology (IUST) | <i>First-rank GPA Scholarship</i>
     </font> 
     <br /> 
     </li>
@@ -58,9 +58,11 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
     <li><b>Graduate Research Assistant</b>, Oregon State University (OSU), 
     <br />
     <font size="3">
-      - Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) | Embodied AI Engineer |
+      - <b>Embodied AI Engineer:</b> Dynamic Robotics and Artificial intelligence Laboratory (DRAIL) |
       <i>Spot Robot Perception System</i>
-      - Percision Agriculture Lab | Computer Vision Engineer | <i>Weed Detection System</i>
+    </font>
+    <font size="3">      
+      - <b>Computer Vision Engineer:</b> Percision Agriculture Lab | <i>Weed Detection System</i>
     </font> 
     <br /> 
     </li>
