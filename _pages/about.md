@@ -16,7 +16,7 @@ I'm an Researcher and Engineer with a background in Artificial Intelligence, Rob
 ## Education
 
 <ul>
-    <li><b>Ph.D. Student</b>,
+    <li><b>Ph.D. Student, Agricultural Engineering</b>,
     </li>
 </ul>
 
