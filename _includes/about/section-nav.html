@@ -1,0 +1,10 @@
+<nav class="about-section-nav" aria-label="About sections">
+  <ul class="about-section-nav__list">
+    <li class="about-section-nav__item{% if page.url == '/' %} is-active{% endif %}"><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li class="about-section-nav__item{% if page.url == '/education/' %} is-active{% endif %}"><a href="{{ '/education/' | relative_url }}">Education</a></li>
+    <li class="about-section-nav__item{% if page.url == '/experiences/' %} is-active{% endif %}"><a href="{{ '/experiences/' | relative_url }}">Experiences</a></li>
+    <li class="about-section-nav__item{% if page.url == '/research-projects/' %} is-active{% endif %}"><a href="{{ '/research-projects/' | relative_url }}">Research and Projects</a></li>
+    <li class="about-section-nav__item{% if page.url == '/others/' %} is-active{% endif %}"><a href="{{ '/others/' | relative_url }}">Others</a></li>
+    <li class="about-section-nav__item{% if page.url == '/gallery/' %} is-active{% endif %}"><a href="{{ '/gallery/' | relative_url }}">Gallery</a></li>
+  </ul>
+</nav>
