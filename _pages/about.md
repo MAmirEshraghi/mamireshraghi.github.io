@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robin Eshraghi"
+title: "Mohammad Amir Eshraghi"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
